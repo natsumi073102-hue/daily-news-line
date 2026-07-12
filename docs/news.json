@@ -1,0 +1,28 @@
+{
+  "updatedAt": "2026-07-12T07:00:00+09:00",
+  "domestic": [
+    {
+      "title": "サンプル見出しです。実際の記事はGitHub Actionsが毎朝自動更新します",
+      "url": "https://example.com",
+      "source": "サンプルメディア",
+      "publishedAt": "2026-07-12T06:30:00Z",
+      "image": null
+    },
+    {
+      "title": "この画面は初回表示用のダミーです",
+      "url": "https://example.com",
+      "source": "サンプルメディア",
+      "publishedAt": "2026-07-12T05:10:00Z",
+      "image": null
+    }
+  ],
+  "world": [
+    {
+      "title": "World news sample headline for preview purposes",
+      "url": "https://example.com",
+      "source": "Sample Media",
+      "publishedAt": "2026-07-12T04:00:00Z",
+      "image": null
+    }
+  ]
+}

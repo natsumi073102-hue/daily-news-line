@@ -10,8 +10,11 @@
   python fetch_news.py
 """
 
+import json
 import os
 import sys
+from datetime import datetime, timezone, timedelta
+
 import requests
 
 NEWSAPI_KEY = os.environ.get("NEWSAPI_KEY")
@@ -51,12 +54,12 @@ def fetch_world_headlines():
     return resp.json().get("articles", [])
 
 
+JST = timezone(timedelta(hours=9))
+
+
 def format_message(jp_articles, world_articles):
     """LINEに送るテキストメッセージを組み立てる"""
-    from datetime import datetime, timezone, timedelta
-
-    jst = timezone(timedelta(hours=9))
-    today = datetime.now(jst).strftime("%Y年%m月%d日")
+    today = datetime.now(JST).strftime("%Y年%m月%d日")
 
     lines = [f"📰 {today}の朝刊まとめ\n"]
 
@@ -76,6 +79,30 @@ def format_message(jp_articles, world_articles):
     return "\n".join(lines)
 
 
+def save_news_json(jp_articles, world_articles, path="docs/news.json"):
+    """Web版が読み込む news.json を書き出す"""
+
+    def slim(a):
+        return {
+            "title": (a.get("title") or "").split(" - ")[0],
+            "url": a.get("url", ""),
+            "source": (a.get("source") or {}).get("name", ""),
+            "publishedAt": a.get("publishedAt", ""),
+            "image": a.get("urlToImage") or None,
+        }
+
+    data = {
+        "updatedAt": datetime.now(JST).isoformat(),
+        "domestic": [slim(a) for a in jp_articles],
+        "world": [slim(a) for a in world_articles],
+    }
+
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+    print(f"news.json を書き出しました: {path}")
+
+
 def send_line_message(text):
     """LINE Messaging APIでpushメッセージを送信"""
     url = "https://api.line.me/v2/bot/message/push"
@@ -90,8 +117,6 @@ def send_line_message(text):
         "messages": [{"type": "text", "text": text}],
     }
     resp = requests.post(url, headers=headers, json=payload, timeout=10)
-    if resp.status_code != 200:
-        print(f"LINE API エラー詳細: {resp.status_code} {resp.text}", file=sys.stderr)
     resp.raise_for_status()
     return resp.status_code
 
@@ -116,6 +141,8 @@ def main():
     if not jp_articles and not world_articles:
         print("ニュースが取得できませんでした。APIキーやリクエスト上限を確認してください。")
         sys.exit(1)
+
+    save_news_json(jp_articles, world_articles)
 
     message = format_message(jp_articles, world_articles)
     status = send_line_message(message)

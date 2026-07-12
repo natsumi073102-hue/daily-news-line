@@ -1,28 +1,48 @@
 {
-  "updatedAt": "2026-07-12T07:00:00+09:00",
-  "domestic": [
-    {
-      "title": "サンプル見出しです。実際の記事はGitHub Actionsが毎朝自動更新します",
-      "url": "https://example.com",
-      "source": "サンプルメディア",
-      "publishedAt": "2026-07-12T06:30:00Z",
-      "image": null
-    },
-    {
-      "title": "この画面は初回表示用のダミーです",
-      "url": "https://example.com",
-      "source": "サンプルメディア",
-      "publishedAt": "2026-07-12T05:10:00Z",
-      "image": null
-    }
-  ],
+  "updatedAt": "2026-07-12T23:19:02.158969+09:00",
+  "domestic": [],
   "world": [
     {
-      "title": "World news sample headline for preview purposes",
-      "url": "https://example.com",
-      "source": "Sample Media",
-      "publishedAt": "2026-07-12T04:00:00Z",
-      "image": null
+      "title": "Landmark US housing legislation becomes law despite Trump protest",
+      "url": "https://www.bbc.com/news/articles/cn8qwj611qxo",
+      "source": "BBC News",
+      "publishedAt": "2026-07-11T13:35:09Z",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2995/live/0335cba0-7c6e-11f1-98fd-6b03daaf8a77.jpg"
+    },
+    {
+      "title": "Conspiracy theories about Charlie Kirk’s death are still raging, infuriating friends",
+      "url": "https://www.washingtonpost.com/nation/2026/07/11/conspiracy-theories-about-charlie-kirks-death-are-still-raging-infuriating-friends/",
+      "source": "The Washington Post",
+      "publishedAt": "2026-07-11T13:32:40Z",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/26YR24ATS2NMQOR4N6CQ5SWBDQ.JPG&w=1440"
+    },
+    {
+      "title": "Former Heat teammates Bam Adebayo, Tyler Herro have brief altercation in Las Vegas, AP source says",
+      "url": "https://apnews.com/article/summer-league-adebayo-herro-altercation-922b1b6358ec112680e08313a7dc4f9c",
+      "source": "Associated Press",
+      "publishedAt": "2026-07-11T13:20:00Z",
+      "image": "https://dims.apnews.com/dims4/default/2b4ccc6/2147483647/strip/true/crop/4087x2723+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F00%2F0d%2Fe51f9290a3471ad03054d8abfb65%2F791eb493c0ea4ed98f1385910e465cf0"
+    },
+    {
+      "title": "Iran's supreme leader: Revenge \"will most certainly be carried out\"",
+      "url": "https://www.axios.com/2026/07/11/iran-trump-revenge-assassination",
+      "source": "Axios",
+      "publishedAt": "2026-07-11T12:50:36Z",
+      "image": "https://images.axios.com/xh7dNf7NuIyJDPZvrIVfYHkLQlw=/0x298:3500x2267/1366x768/2026/07/11/1783772107417.jpg"
+    },
+    {
+      "title": "Trump and Iranian leader trade threats as mediators try to save crumbling deal",
+      "url": "https://apnews.com/article/iran-united-states-trump-khamenei-funeral-533b52cf249314ba1d9b5f9a30b1ca43",
+      "source": "Associated Press",
+      "publishedAt": "2026-07-11T12:41:00Z",
+      "image": "https://dims.apnews.com/dims4/default/039eb3a/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb2%2Fc4%2F19bf3ddbcbc2a07f5ac15cf2710b%2F8d977835bd8046d0b0703cdeeca35d5c"
+    },
+    {
+      "title": "U.K. rattled by killing of politician Ann Widdecombe as murder probe continues",
+      "url": "https://www.nbcnews.com/world/united-kingdom/uk-rattled-killing-politician-ann-widdecombe-murder-probe-continues-rcna439777",
+      "source": "NBC News",
+      "publishedAt": "2026-07-11T12:24:21Z",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260711-widdecombe-nd-0e69fc.jpg"
     }
   ]
 }

@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>朝刊 - デイリーニュースダイジェスト</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Shippori+Mincho+B1:wght@500;700&family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #EDF1F5;
+    --card: #FFFFFF;
+    --ink: #1C2541;
+    --ink-soft: #5B6472;
+    --line: #DCE3EA;
+    --domestic: #B8862E;
+    --domestic-bg: #FBF1DE;
+    --world: #2F6E63;
+    --world-bg: #E6F1EE;
+    --dawn-1: #232B5C;
+    --dawn-2: #C97B3E;
+    --dawn-3: #F6DCA8;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: 'Noto Sans JP', sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .dawn-bar {
+    height: 6px;
+    width: 100%;
+    background: linear-gradient(90deg, var(--dawn-1) 0%, var(--dawn-2) 55%, var(--dawn-3) 100%);
+  }
+
+  main {
+    max-width: 640px;
+    margin: 0 auto;
+    padding: 40px 20px 80px;
+  }
+
+  header.page-head {
+    margin-bottom: 40px;
+  }
+
+  .eyebrow-top {
+    font-size: 13px;
+    letter-spacing: 0.12em;
+    color: var(--ink-soft);
+    margin: 0 0 6px;
+  }
+
+  h1.title {
+    font-family: 'Shippori Mincho B1', serif;
+    font-weight: 700;
+    font-size: 40px;
+    margin: 0 0 8px;
+    letter-spacing: 0.02em;
+  }
+
+  .date-line {
+    font-size: 15px;
+    color: var(--ink-soft);
+  }
+
+  section.group {
+    margin-bottom: 44px;
+  }
+
+  .group-eyebrow {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    padding: 5px 12px;
+    border-radius: 999px;
+    margin-bottom: 18px;
+  }
+
+  .group-eyebrow.domestic { color: var(--domestic); background: var(--domestic-bg); }
+  .group-eyebrow.world { color: var(--world); background: var(--world-bg); }
+
+  ul.card-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  a.card {
+    display: flex;
+    gap: 14px;
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    padding: 16px 18px;
+    text-decoration: none;
+    color: inherit;
+    align-items: baseline;
+    opacity: 0;
+    transform: translateY(6px);
+    animation: rise 0.5s ease forwards;
+    transition: border-color 0.15s ease, transform 0.15s ease;
+  }
+
+  a.card:hover {
+    border-color: var(--ink-soft);
+    transform: translateY(-1px);
+  }
+
+  a.card:focus-visible {
+    outline: 2px solid var(--dawn-2);
+    outline-offset: 2px;
+  }
+
+  .card-index {
+    font-family: 'Shippori Mincho B1', serif;
+    font-size: 15px;
+    color: var(--ink-soft);
+    min-width: 22px;
+    flex-shrink: 0;
+  }
+
+  .card-body {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+
+  .card-title {
+    font-size: 16px;
+    line-height: 1.55;
+    font-weight: 500;
+  }
+
+  .card-source {
+    font-size: 12.5px;
+    color: var(--ink-soft);
+  }
+
+  @keyframes rise {
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  footer.page-foot {
+    margin-top: 56px;
+    padding-top: 20px;
+    border-top: 1px solid var(--line);
+    font-size: 13px;
+    color: var(--ink-soft);
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .empty-state {
+    font-size: 14px;
+    color: var(--ink-soft);
+    padding: 18px;
+    background: var(--card);
+    border: 1px dashed var(--line);
+    border-radius: 10px;
+  }
+
+  @media (max-width: 480px) {
+    h1.title { font-size: 32px; }
+    main { padding: 28px 16px 64px; }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    a.card { animation: none; opacity: 1; transform: none; }
+  }
+</style>
+</head>
+<body>
+  <div class="dawn-bar" aria-hidden="true"></div>
+
+  <main>
+    <header class="page-head">
+      <p class="eyebrow-top">DAILY DIGEST</p>
+      <h1 class="title">朝刊</h1>
+      <p class="date-line" id="date-line">読み込み中...</p>
+    </header>
+
+    <section class="group" id="domestic-group">
+      <span class="group-eyebrow domestic">国内</span>
+      <ul class="card-list" id="domestic-list"></ul>
+    </section>
+
+    <section class="group" id="world-group">
+      <span class="group-eyebrow world">海外</span>
+      <ul class="card-list" id="world-list"></ul>
+    </section>
+
+    <footer class="page-foot">
+      <span id="updated-at">最終更新: -</span>
+      <span>毎朝7時(JST)に自動更新</span>
+    </footer>
+  </main>
+
+<script>
+async function loadNews() {
+  const dateLine = document.getElementById('date-line');
+  const updatedAt = document.getElementById('updated-at');
+  const domesticList = document.getElementById('domestic-list');
+  const worldList = document.getElementById('world-list');
+
+  try {
+    const res = await fetch('./news.json', { cache: 'no-store' });
+    if (!res.ok) throw new Error('news.json取得失敗');
+    const data = await res.json();
+
+    const updated = new Date(data.updatedAt);
+    const dateFmt = new Intl.DateTimeFormat('ja-JP', {
+      year: 'numeric', month: 'long', day: 'numeric', weekday: 'short'
+    });
+    const timeFmt = new Intl.DateTimeFormat('ja-JP', { hour: '2-digit', minute: '2-digit' });
+
+    dateLine.textContent = dateFmt.format(updated) + 'の朝刊';
+    updatedAt.textContent = '最終更新: ' + timeFmt.format(updated);
+
+    renderList(domesticList, data.domestic || []);
+    renderList(worldList, data.world || []);
+  } catch (err) {
+    dateLine.textContent = 'ニュースを読み込めませんでした';
+    console.error(err);
+  }
+}
+
+function renderList(el, articles) {
+  el.innerHTML = '';
+  if (!articles.length) {
+    const li = document.createElement('li');
+    li.className = 'empty-state';
+    li.textContent = '本日はニュースを取得できませんでした。';
+    el.appendChild(li);
+    return;
+  }
+
+  articles.forEach((a, i) => {
+    const li = document.createElement('li');
+    const link = document.createElement('a');
+    link.className = 'card';
+    link.href = a.url;
+    link.target = '_blank';
+    link.rel = 'noopener noreferrer';
+    link.style.animationDelay = (i * 0.06) + 's';
+
+    const idx = document.createElement('span');
+    idx.className = 'card-index';
+    idx.textContent = String(i + 1).padStart(2, '0');
+
+    const body = document.createElement('span');
+    body.className = 'card-body';
+
+    const title = document.createElement('span');
+    title.className = 'card-title';
+    title.textContent = a.title;
+
+    const source = document.createElement('span');
+    source.className = 'card-source';
+    source.textContent = a.source || '';
+
+    body.appendChild(title);
+    body.appendChild(source);
+    link.appendChild(idx);
+    link.appendChild(body);
+    li.appendChild(link);
+    el.appendChild(li);
+  });
+}
+
+loadNews();
+</script>
+</body>
+</html>

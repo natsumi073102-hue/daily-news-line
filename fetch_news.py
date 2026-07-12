@@ -90,6 +90,8 @@ def send_line_message(text):
         "messages": [{"type": "text", "text": text}],
     }
     resp = requests.post(url, headers=headers, json=payload, timeout=10)
+    if resp.status_code != 200:
+        print(f"LINE API エラー詳細: {resp.status_code} {resp.text}", file=sys.stderr)
     resp.raise_for_status()
     return resp.status_code
 

@@ -1,48 +1,41 @@
 {
-  "updatedAt": "2026-07-13T17:37:44.859943+09:00",
+  "updatedAt": "2026-07-14T15:23:11.620618+09:00",
   "domestic": [],
   "world": [
     {
-      "title": "Conor McGregor suffers early knee injury in return, loses to Max Holloway at UFC 329",
-      "url": "https://apnews.com/article/ufc-329-conor-mcgregor-max-holloway-mma-a7a3446abf143aaac32777d262612bb0",
+      "title": "Sam Neill Dead; Jurassic Park Actor Was 78",
+      "url": "http://deadline.com/2026/07/sam-neill-jurassic-park-actor-dead-1236980409/",
+      "source": "Deadline",
+      "publishedAt": "2026-07-13T05:57:00Z",
+      "image": "https://deadline.com/wp-content/uploads/2023/03/Sam-Neill.jpg?w=1024"
+    },
+    {
+      "title": "US ends latest round of airstrikes on Iran after Tehran strikes Gulf states",
+      "url": "https://apnews.com/article/iran-us-hormuz-strait-war-july-13-2026-6c2c44cfdd089d6393d18fa5930ed620",
       "source": "Associated Press",
-      "publishedAt": "2026-07-12T06:52:00Z",
-      "image": "https://dims.apnews.com/dims4/default/96d7503/2147483647/strip/true/crop/5809x3871+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F6d%2Fc3%2F8e19c22bf3d0cd3ca87140e2df71%2Fc9960360ad5146e09eb4f042c74ae3e1"
+      "publishedAt": "2026-07-13T05:46:00Z",
+      "image": "https://dims.apnews.com/dims4/default/c30332b/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc8%2F7a%2Fd74147409a591dafc97b16061331%2Fa723d6cf44e94923a09cda25d90eedd5"
     },
     {
-      "title": "Sen. Lindsey Graham dies at 71 after ‘brief and sudden illness’",
-      "url": "https://www.nbcnews.com/politics/politics-news/sen-lindsey-graham-dies-71-brief-sudden-illness-rcna552722",
-      "source": "NBC News",
-      "publishedAt": "2026-07-12T06:22:00Z",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260711-lindsey-graham-cc-1138p-8ff010.jpg"
+      "title": "July 12, 2026 — US launches strikes on Iran for a second night",
+      "url": "https://www.cnn.com/2026/07/12/world/live-news/iran-war-trump",
+      "source": "CNN",
+      "publishedAt": "2026-07-13T04:55:00Z",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-07-12t065638z-1526201117-rc24cmal4xts-rtrmadp-3-iran-crisis.JPG?c=16x9&q=w_800,c_fill"
     },
     {
-      "title": "Qatar's former ruler Sheikh Hamad bin Khalifa Al Thani has died at age 74, state news agency says",
-      "url": "https://apnews.com/article/qatar-sheikh-hamad-khalifa-al-thani-dies-43c1d0e86698967d4809f0dbfc2b39c1",
-      "source": "Associated Press",
-      "publishedAt": "2026-07-12T05:51:00Z",
-      "image": "https://dims.apnews.com/dims4/default/d8bce14/2147483647/strip/true/crop/3000x1999+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F92%2F20%2Fe76a43a6e773f5487a58dcaa8482%2Fa7579d48bb344b4a82bfcf4d79e0a326"
+      "title": "NASCAR Cup Series race at Atlanta restarted after 3-hour weather delay",
+      "url": "https://www.tennessean.com/story/sports/nascar/2026/07/12/nascar-cup-series-atlanta-weather-delay-update-race/90896302007/",
+      "source": "Tennessean",
+      "publishedAt": "2026-07-13T03:41:00Z",
+      "image": "https://www.tennessean.com/gcdn/authoring/authoring-images/2026/07/13/PNAS/90896776007-2285813526.jpg?crop=5999,3375,x0,y312&width=3200&height=1801&format=pjpg&auto=webp"
     },
     {
-      "title": "US attacks Iran over ship being hit in Strait of Hormuz; Tehran lashes out again at Gulf Arab states",
-      "url": "https://apnews.com/article/iran-usa-united-arab-emirates-attack-0764d17c09370a8c5cf1e8197a8878ab",
-      "source": "Associated Press",
-      "publishedAt": "2026-07-12T05:41:00Z",
-      "image": "https://dims.apnews.com/dims4/default/535bc14/2147483647/strip/true/crop/6675x4448+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F32%2Fc8%2F16b664c1541f56c7cefdd8b3e483%2F556cfa4bce7243f09c682d8a90261322"
-    },
-    {
-      "title": "How Aldi is taking on US supermarkets with its $4 almond butter",
-      "url": "https://www.bbc.com/news/articles/cly0l5d5xn7o",
-      "source": "BBC News",
-      "publishedAt": "2026-07-12T05:00:15Z",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/c5e0/live/402e3660-7c59-11f1-ad56-219c1e341d26.jpg"
-    },
-    {
-      "title": "What was the mistaken identity red card shown in Argentina vs Switzerland?",
-      "url": "https://www.aljazeera.com/sports/2026/7/12/what-was-the-mistaken-identity-red-card-shown-in-argentina-vs-switzerland",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-12T04:44:43Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-12T015629Z_606522514_UP1EM7C05E4OI_RTRMADP_3_SOCCER-WORLDCUP-ARG-SWI-1783824314.jpg?resize=1920%2C1440"
+      "title": "Stock futures slip after U.S., Iran exchange airstrikes again; Kospi plunges 7%: Live updates",
+      "url": "https://www.cnbc.com/2026/07/12/stock-market-today-live-updates.html",
+      "source": "CNBC",
+      "publishedAt": "2026-07-13T03:33:00Z",
+      "image": "https://image.cnbcfm.com/api/v1/image/108303148-1778088023303-gettyimages-2274260821-US_STOCKS.jpeg?v=1778088228&w=1920&h=1080"
     }
   ]
 }

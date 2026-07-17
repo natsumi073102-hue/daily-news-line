@@ -1,48 +1,41 @@
 {
-  "updatedAt": "2026-07-16T15:37:00.757558+09:00",
+  "updatedAt": "2026-07-17T15:28:36.819944+09:00",
   "domestic": [],
   "world": [
     {
-      "title": "Live updates: US launches fourth night of strikes on Iran and restarts naval blockade",
-      "url": "https://www.cnn.com/2026/07/15/world/live-news/iran-war-trump",
+      "title": "Led by Messi, Argentina scores twice late to reach World Cup final again",
+      "url": "https://www.washingtonpost.com/sports/2026/07/15/led-by-messi-argentina-scores-twice-late-reach-world-cup-final-again/",
+      "source": "The Washington Post",
+      "publishedAt": "2026-07-16T04:42:12Z",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PWDTUAABVQKVVZYEPWHJL7DSQQ_size-normalized.jpg&w=1440"
+    },
+    {
+      "title": "Kyiv under fire from Russian missiles after EU-Ukraine sign drone deal",
+      "url": "https://www.aljazeera.com/news/2026/7/16/kyiv-under-fire-from-russian-missiles-after-eu-ukraine-sign-drone-deal",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-16T03:14:36Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-15T164046Z_166059555_RC2FEMAX5LOJ_RTRMADP_3_UKRAINE-CRISIS-ATTACK-ZAPORIZHZHIA-1784160211.jpg?resize=1920%2C1440"
+    },
+    {
+      "title": "Sam Neill’s Cause of Death Revealed",
+      "url": "http://www.rollingstone.com/tv-movies/tv-movie-news/sam-neill-cause-of-death-revealed-1235594402/",
+      "source": "Rolling Stone",
+      "publishedAt": "2026-07-16T03:02:11Z",
+      "image": "https://www.rollingstone.com/wp-content/uploads/2026/07/Sam-Neill-cause-of-death.jpg?w=1600&h=900&crop=1"
+    },
+    {
+      "title": "New York Times fights Trump administration subpoenas for reporters’ testimony",
+      "url": "https://www.cnn.com/2026/07/15/media/new-york-times-trump-subpoenas-reporters",
       "source": "CNN",
-      "publishedAt": "2026-07-15T04:07:00Z",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2282803195-20260714164328100.jpg?c=16x9&q=w_800,c_fill"
+      "publishedAt": "2026-07-16T02:23:00Z",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2257847653.jpg?c=16x9&q=w_800,c_fill"
     },
     {
-      "title": "What's in store for Todd Blanche’s confirmation hearing",
-      "url": "https://www.politico.com/news/2026/07/14/todd-blanche-confirmation-hearing-attorney-general-00998340",
-      "source": "Politico",
-      "publishedAt": "2026-07-15T02:27:00Z",
-      "image": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F7e%2F74%2F0dca88bf4caca3f85b5ea9e7eb78%2Fu-s-congress-43643.jpg"
-    },
-    {
-      "title": "Hamilton County health officials report more cyclosporiasis cases",
-      "url": "https://www.wlwt.com/article/hamilton-county-health-report-more-cases-cyclosporiasis/71929875",
-      "source": "WLWT Cincinnati",
-      "publishedAt": "2026-07-15T02:25:00Z",
-      "image": "https://kubrick.htvapps.com/htv-prod/images/fc40e1c2-30a2-401d-9431-b0e25550570f.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
-    },
-    {
-      "title": "Gibraltar ushers in a new era as British territory’s border fence with Spain is removed",
-      "url": "https://apnews.com/article/spain-gibraltar-uk-brexit-9113dd58dc8220826038022e84e3b662",
-      "source": "Associated Press",
-      "publishedAt": "2026-07-15T02:10:00Z",
-      "image": "https://dims.apnews.com/dims4/default/fcb88e0/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fad%2Fe8%2Fd7e9dd95ebbd0de60507777d5ebb%2F4d93c112c6de4d8aa2fe5ad0fa43b0a4"
-    },
-    {
-      "title": "China posts slowest GDP growth since 2022 at 4.3%, missing expectations",
-      "url": "https://www.cnbc.com/2026/07/15/china-gdp-retail-sales-investment-june-.html",
-      "source": "CNBC",
-      "publishedAt": "2026-07-15T02:03:00Z",
-      "image": "https://image.cnbcfm.com/api/v1/image/108335072-1784076616709-gettyimages-2285405301-Total_Value_of_Chinas_Goods_Trade_Imports_And_Exports_in_2026_H.jpeg?v=1784076649&w=1920&h=1080"
-    },
-    {
-      "title": "Trump administration orders ICE to suspend most vehicle stops after 2 deadly shootings",
-      "url": "https://apnews.com/article/maine-ice-shooting-man-killed-73681fcf59fceb8b43b198ccaec554d3",
-      "source": "Associated Press",
-      "publishedAt": "2026-07-15T02:02:00Z",
-      "image": "https://dims.apnews.com/dims4/default/3422099/2147483647/strip/true/crop/5852x3899+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe3%2Fb6%2Fb6fd831cfde84ab35980d55391ac%2F055519551f0d42fbbd33b2005b0115d3"
+      "title": "House vote exposes Democrats’ widening divide over Israel",
+      "url": "https://www.washingtonpost.com/politics/2026/07/15/house-vote-exposes-democrats-widening-divide-over-israel/",
+      "source": "The Washington Post",
+      "publishedAt": "2026-07-16T01:26:54Z",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QJ4U7M3WQ2VVMWLYWRDDIQRG2U_size-normalized.jpg&w=1440"
     }
   ]
 }

@@ -1,48 +1,41 @@
 {
-  "updatedAt": "2026-07-21T16:41:55.676197+09:00",
+  "updatedAt": "2026-07-22T16:42:15.945762+09:00",
   "domestic": [],
   "world": [
     {
-      "title": "US bombs Iran for ninth consecutive night as Hormuz tensions escalate",
-      "url": "https://www.aljazeera.com/news/2026/7/20/us-bombs-iran-for-ninth-consecutive-night-as-hormuz-tensions-escalate",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-20T08:03:09Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-19T045233Z_545041725_RC2SGMAJKT6K_RTRMADP_3_IRAN-CRISIS-USA-1784510577.jpg?resize=1920%2C1440"
+      "title": "Iran War Updates: U.S. carries out 10th night of strikes after 3 U.S. troops killed, nearly 100 injured in recent weeks",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-troops-killed-wounded-jordan-base/",
+      "source": "CBS News",
+      "publishedAt": "2026-07-21T05:30:04Z",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/20/fb13300d-cf13-4089-820c-018d6b151352/thumbnail/1200x630/4e6e3b813c308d36071715c76a1e5d86/iran-us-strike-bridge-2286152521.jpg"
     },
     {
-      "title": "Spain outplay Messi’s Argentina to reach World Cup summit",
-      "url": "https://www.ft.com/content/9f8b8f8d-cc2e-45a3-b4fb-3f57fb415c16?syn-25a6b1a6\\\\u003d1",
-      "source": "Financial Times",
-      "publishedAt": "2026-07-20T06:52:31Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa45fd885-09b7-4391-8d3c-41097e594b47.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-barrier-page"
+      "title": "Trump says he will impose 50 percent tariffs on Canadian goods in 30 days",
+      "url": "https://www.washingtonpost.com/business/2026/07/20/trump-says-he-will-impose-50-percent-tariffs-canada/",
+      "source": "The Washington Post",
+      "publishedAt": "2026-07-21T04:45:37Z",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6AK6PQ265ZWQ2QUY455E2DKMWQ_size-normalized.jpg&w=1440"
     },
     {
-      "title": "Ryanair profit slumps 34% as airlines brace for a 'difficult winter' amid Middle East crisis",
-      "url": "https://www.cnbc.com/2026/07/20/ryanair-q1-earnings-iran-war-summer-fares.html",
-      "source": "CNBC",
-      "publishedAt": "2026-07-20T06:20:01Z",
-      "image": "https://image.cnbcfm.com/api/v1/image/108308128-1779082030431-gettyimages-2274361383-AFP_B2492MH.jpeg?v=1784526320&w=1920&h=1080"
+      "title": "Tropical Storm Bertha forms in the Gulf, forecasts warn of flooding",
+      "url": "https://www.usatoday.com/story/news/weather/2026/07/20/tropical-storm-bertha-weather-path-gulf-coast/90979616007/",
+      "source": "USA Today",
+      "publishedAt": "2026-07-21T03:08:00Z",
+      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/21/USAT/90990248007-berthajuly-20.png?crop=896,504,x0,y153&width=896&height=504&format=pjpg&auto=webp"
     },
     {
-      "title": "Trump steps on World Cup winner’s moment with photobomb of Spain’s trophy lift",
-      "url": "https://www.the-independent.com/arts-entertainment/tv/news/trump-fifa-world-cup-trophy-spain-lift-b3017848.html",
-      "source": "The-independent.com",
-      "publishedAt": "2026-07-20T06:05:00Z",
-      "image": "https://static.the-independent.com/2026/07/20/00/2286810774..?trim=0,45,0,45&width=1200&height=800&crop=1200:800"
+      "title": "Judge, nominated by Trump, rules against him in key Minnesota case",
+      "url": "https://thehill.com/regulation/court-battles/5979646-judge-rejects-trump-sanctuary-laws/",
+      "source": "The Hill",
+      "publishedAt": "2026-07-21T03:01:00Z",
+      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/02/ice_immigration_minnesota_02032026_GettyImages-2259234673-1.jpg?w=1280"
     },
     {
-      "title": "Iran war, Myanmar crisis and South China Sea rifts under the spotlight in ASEAN ministerial talks",
-      "url": "https://apnews.com/article/philippines-asean-meetings-southeast-asia-myanmar-south-china-sea-iran-war-2b968e79424b31ad4899331de0f214e4",
-      "source": "Associated Press",
-      "publishedAt": "2026-07-20T04:56:00Z",
-      "image": "https://dims.apnews.com/dims4/default/9533888/2147483647/strip/true/crop/4652x3100+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F64%2Fed%2Fb2038cbb7d7bbf5be593f932a057%2F8959d9f3686342ebb0f79b111d697ade"
-    },
-    {
-      "title": "Moonshot’s Kimi K3 May Be More About Memory Than Compute",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-20/moonshot-s-kimi-k3-may-be-more-about-memory-than-compute",
-      "source": "Bloomberg",
-      "publishedAt": "2026-07-20T04:50:00Z",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZeIvpiMPF6Y/v0/1200x800.jpg"
+      "title": "The New Mercedes-Maybach GLS Debuts With More Power, Better Style",
+      "url": "https://www.motor1.com/news/802238/2027-mercedes-maybach-gls-680-engine-specs-details/",
+      "source": "Motor1 ",
+      "publishedAt": "2026-07-21T03:00:23Z",
+      "image": "https://cdn.motor1.com/images/mgl/eo7L1N/s1/mercedes-maybach-gls.jpg"
     }
   ]
 }

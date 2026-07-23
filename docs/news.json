@@ -1,41 +1,41 @@
 {
-  "updatedAt": "2026-07-22T16:42:15.945762+09:00",
+  "updatedAt": "2026-07-23T16:44:16.103179+09:00",
   "domestic": [],
   "world": [
     {
-      "title": "Iran War Updates: U.S. carries out 10th night of strikes after 3 U.S. troops killed, nearly 100 injured in recent weeks",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-troops-killed-wounded-jordan-base/",
+      "title": "Live updates: US-Iran war, Rubio warns Tehran ‘not serious’ about talks, US strikes continue",
+      "url": "https://www.cnn.com/2026/07/22/world/live-news/the-war-with-iran",
+      "source": "CNN",
+      "publishedAt": "2026-07-22T07:29:00Z",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-07-01t223900z-435700050-rc2d4ma91io9-rtrmadp-3-iran-crisis-20260721204321873.jpg?c=16x9&q=w_800,c_fill"
+    },
+    {
+      "title": "Little Fire: Firefighter injured, evacuations ordered as wildfire explodes to 1007 acres near Pleasanton in Alameda County",
+      "url": "https://abc7news.com/post/sunol-grass-fire-burning-pleasanton-scorches-75-acres-moderate-rate-spread/19552712/",
+      "source": "KGO-TV",
+      "publishedAt": "2026-07-22T07:16:57Z",
+      "image": "https://cdn.abcotvs.com/dip/images/19554735_072126-kgo-little-fire-flames-img.jpg?w=1600"
+    },
+    {
+      "title": "Tropical Storm Bertha impacting northern Gulf Coast. See forecast map and its path.",
+      "url": "https://www.cbsnews.com/news/tropical-storm-bertha-gulf-coast-maps-path/",
       "source": "CBS News",
-      "publishedAt": "2026-07-21T05:30:04Z",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/20/fb13300d-cf13-4089-820c-018d6b151352/thumbnail/1200x630/4e6e3b813c308d36071715c76a1e5d86/iran-us-strike-bridge-2286152521.jpg"
+      "publishedAt": "2026-07-22T06:43:51Z",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/21/69640ae4-5335-41e6-9d1f-0b8a417f7096/thumbnail/1200x630/465400c8f14cde752c177b4eae3fb78e/bertha21.jpg"
     },
     {
-      "title": "Trump says he will impose 50 percent tariffs on Canadian goods in 30 days",
-      "url": "https://www.washingtonpost.com/business/2026/07/20/trump-says-he-will-impose-50-percent-tariffs-canada/",
+      "title": "Zelensky ousts Ukraine’s military commander as major shake-up continues",
+      "url": "https://www.washingtonpost.com/world/2026/07/21/zelensky-ousts-ukraines-military-commander-major-shake-up-continues/",
       "source": "The Washington Post",
-      "publishedAt": "2026-07-21T04:45:37Z",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6AK6PQ265ZWQ2QUY455E2DKMWQ_size-normalized.jpg&w=1440"
+      "publishedAt": "2026-07-22T05:32:54Z",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/P3F7PVBCHQI63JZPDZYUSBZPXQ.jpg&w=1440"
     },
     {
-      "title": "Tropical Storm Bertha forms in the Gulf, forecasts warn of flooding",
-      "url": "https://www.usatoday.com/story/news/weather/2026/07/20/tropical-storm-bertha-weather-path-gulf-coast/90979616007/",
-      "source": "USA Today",
-      "publishedAt": "2026-07-21T03:08:00Z",
-      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/21/USAT/90990248007-berthajuly-20.png?crop=896,504,x0,y153&width=896&height=504&format=pjpg&auto=webp"
-    },
-    {
-      "title": "Judge, nominated by Trump, rules against him in key Minnesota case",
-      "url": "https://thehill.com/regulation/court-battles/5979646-judge-rejects-trump-sanctuary-laws/",
-      "source": "The Hill",
-      "publishedAt": "2026-07-21T03:01:00Z",
-      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/02/ice_immigration_minnesota_02032026_GettyImages-2259234673-1.jpg?w=1280"
-    },
-    {
-      "title": "The New Mercedes-Maybach GLS Debuts With More Power, Better Style",
-      "url": "https://www.motor1.com/news/802238/2027-mercedes-maybach-gls-680-engine-specs-details/",
-      "source": "Motor1 ",
-      "publishedAt": "2026-07-21T03:00:23Z",
-      "image": "https://cdn.motor1.com/images/mgl/eo7L1N/s1/mercedes-maybach-gls.jpg"
+      "title": "Mamdani says he won't try to arrest Israel's Netanyahu, acknowledges NYC doesn't have legal authority",
+      "url": "https://www.cbsnews.com/news/mamdani-will-not-arrest-israel-netanyahu-nyc-legal-authority-nypd-un/",
+      "source": "CBS News",
+      "publishedAt": "2026-07-22T04:05:55Z",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/06/22/406340af-742b-4b50-aec1-de5b4869cc59/thumbnail/1200x630/30a4d00aaed68439e7719fe2e9c5739e/ap26141583905164.jpg"
     }
   ]
 }

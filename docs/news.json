@@ -1,41 +1,48 @@
 {
-  "updatedAt": "2026-08-05T16:58:25.808955+09:00",
+  "updatedAt": "2026-08-06T16:49:30.885482+09:00",
   "domestic": [],
   "world": [
     {
-      "title": "Scoop: Trump tells Max Miller his candidacy is in trouble",
-      "url": "https://www.axios.com/2026/08/04/trump-max-miller-moreno-election-house",
-      "source": "Axios",
-      "publishedAt": "2026-08-04T04:10:14Z",
-      "image": "https://images.axios.com/yURU4Y1mUWFIJVTIezJHYy-5Lv8=/0x0:7556x4250/1366x768/2026/08/04/1785802182320.jpeg"
+      "title": "El-Sayed and Stevens locked in tight race in Michigan Senate primary",
+      "url": "https://www.cnn.com/2026/08/04/politics/live-news/primary-election-michigan-virginia",
+      "source": "CNN",
+      "publishedAt": "2026-08-05T08:34:00Z",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/20260804-sayed-stevens-2.jpg?c=16x9&q=w_800,c_fill"
     },
     {
-      "title": "Scott Bessent’s yen intervention signals new era of US ‘currency activism’",
-      "url": "https://www.ft.com/content/1be83506-b897-4c26-97cc-445d7354ee6f?syn-25a6b1a6\\\\u003d1",
-      "source": "Financial Times",
-      "publishedAt": "2026-08-04T03:40:07Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F56d614b2-ba3c-4267-8da9-fff70531f2ef.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1"
+      "title": "SpaceX dives 10% after AI spending surge rattles investors",
+      "url": "https://www.cnbc.com/2026/08/05/spacex-spcx-stock-today-earnings.html",
+      "source": "CNBC",
+      "publishedAt": "2026-08-05T08:06:03Z",
+      "image": "https://image.cnbcfm.com/api/v1/image/108321029-17812719352026-06-12t134403z_1228447360_rc2dslascqpj_rtrmadp_0_spacex-ipo.jpeg?v=1781272031&w=1920&h=1080"
     },
     {
-      "title": "Phillies land Luis Arraez in five-player trade",
-      "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-03/phillies-land-luis-arraez-in-five-player-trade",
-      "source": "NBCSports.com",
-      "publishedAt": "2026-08-04T03:36:50Z",
-      "image": "https://nbcsports.brightspotcdn.com/dims4/default/155326f/2147483647/strip/true/crop/800x450+0+315/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8a%2Fe1%2F06679a49490ab094a72303d8aced%2Farraez-luis-copy.jpg"
+      "title": "Russian missile attack kills 14, injures 27 in Ukraine’s Kyiv region",
+      "url": "https://www.aljazeera.com/news/2026/8/4/russia-strikes-ukrainian-capital-kyiv-with-ballistic-missiles",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-08-05T05:43:34Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/GettyImages-2288293310-1785890794.jpg?resize=1920%2C1440"
     },
     {
-      "title": "Trump optimistic Iran talks will reopen strait, and other developments in the Middle East",
-      "url": "https://apnews.com/article/mideast-iran-us-israel-palestinians-gaza-3b92568b6f2eec283eb51d0327ee682a",
+      "title": "Trump says deal to reopen Strait of Hormuz could come as early as Wednesday",
+      "url": "https://apnews.com/article/iran-war-us-hormuz-trump-august-5-2026-ecdbd96f2b46c70beb5926d8508f9c55",
       "source": "Associated Press",
-      "publishedAt": "2026-08-04T02:57:00Z",
-      "image": "https://dims.apnews.com/dims4/default/ae0e76f/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F65%2F2e%2F045ba7f1c63ce410127a200ea257%2Fcd56f55d03934aa18bdd220ace3259f2"
+      "publishedAt": "2026-08-05T05:35:00Z",
+      "image": "https://dims.apnews.com/dims4/default/d5b1a89/2147483647/strip/true/crop/4273x2847+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F28%2F80%2F09d0067a02e7406e4b4f96c0c411%2Ffed0eff114934387b2fd49625601be94"
     },
     {
-      "title": "Judge rules New York can’t ban federal agents from wearing face coverings",
-      "url": "https://apnews.com/article/new-york-ice-face-covering-lawsuit-d3c81d991c8d357400318291d5a8fb60",
-      "source": "Associated Press",
-      "publishedAt": "2026-08-04T01:57:44Z",
-      "image": "https://dims.apnews.com/dims4/default/dde4256/2147483647/strip/true/crop/3000x1999+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F85%2Fbf%2F6c36d5a5c1217d01986ca5dcda95%2Fe30b492edbb14c8cab8e01dddaf66472"
+      "title": "Perez Hilton hospitalized after reports he livestreamed self-harm, sheriff’s officials say",
+      "url": "https://www.nbcnews.com/news/us-news/perez-hilton-hospitalized-reports-livestream-self-harm-rcna590901",
+      "source": "NBC News",
+      "publishedAt": "2026-08-05T05:07:00Z",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260804-Perez-Hilton-vsb-2303-7aab35.jpg"
+    },
+    {
+      "title": "Trump hasn’t ‘made a determination’ on Jeanine Pirro’s fate",
+      "url": "https://www.politico.com/news/2026/08/05/jeanine-pirro-donald-trump-us-attorney-01025059",
+      "source": "Politico",
+      "publishedAt": "2026-08-05T04:51:00Z",
+      "image": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fac%2F9a%2Fe9b03f3c493db3a75879f7f7179e%2Ftrump-8-731.jpg"
     }
   ]
 }

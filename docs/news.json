@@ -1,41 +1,41 @@
 {
-  "updatedAt": "2026-08-08T08:49:38.023326+09:00",
+  "updatedAt": "2026-08-09T08:03:28.303403+09:00",
   "domestic": [],
   "world": [
     {
-      "title": "Google shifts AI power back to Brin as DeepMind’s Hassabis steps aside",
-      "url": "https://www.ft.com/content/1453e9c2-4922-482f-8720-0bafd7e07df7?syn-25a6b1a6\\\\u003d1",
-      "source": "Financial Times",
-      "publishedAt": "2026-08-06T21:40:54Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F393916b8-c221-43bf-9032-dde077de9579.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1"
+      "title": "Stock Market Today: Dow Rises After Jobs Report Misses Forecasts — Live Updates",
+      "url": "https://www.wsj.com/livecoverage/july-jobs-report-stock-market-08-07-2026",
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-08-07T20:22:00Z",
+      "image": null
     },
     {
-      "title": "Lions, RB Jahmyr Gibbs agree to 3-year, $67.5M extension",
-      "url": "https://www.espn.com/nfl/story/_/id/49547879/lions-rb-jahmyr-gibbs-agree-3-year-675m-extension",
-      "source": "ESPN",
-      "publishedAt": "2026-08-06T21:33:00Z",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1021%2Fr1563316_1296x729_16%2D9.jpg"
+      "title": "Sen. Bill Cassidy, a critical Republican holdout, backs Todd Blanche for attorney general",
+      "url": "https://www.nbcnews.com/politics/trump-administration/lisa-murkowski-vote-no-todd-blanche-attorney-general-rcna591326",
+      "source": "NBC News",
+      "publishedAt": "2026-08-07T20:05:48Z",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260807-bill-cassidy-16x9-mn-1120-272905.jpg"
     },
     {
-      "title": "Spokane arson suspect tells prosecutors he started 25 other fires",
-      "url": "https://www.seattletimes.com/seattle-news/environment/spokane-arson-suspect-told-prosecutors-he-started-25-other-fires-documents-say/",
-      "source": "The Seattle Times",
-      "publishedAt": "2026-08-06T20:52:46Z",
-      "image": "https://images.seattletimes.com/wp-content/uploads/2026/08/08062026_tzr_tzr_113630.jpg?d=1200x630"
+      "title": "Beachgoers warned after deadly 'flesh-eating' bacteria kills 5 in southern state",
+      "url": "https://www.foxnews.com/health/beachgoers-warned-deadly-flesh-eating-bacteria-kills-5-southern-state",
+      "source": "Fox News",
+      "publishedAt": "2026-08-07T19:22:48Z",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/woman-wading-in-ocean.jpg"
     },
     {
-      "title": "OpenAI’s New Device Will Be Hockey Puck-Sized and Cost Over $300",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-06/what-is-openai-s-device-a-doughnut-shaped-speaker-that-costs-over-300",
-      "source": "Bloomberg",
-      "publishedAt": "2026-08-06T19:59:38Z",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ielbTm6._hjo/v0/1200x800.jpg"
+      "title": "Idaho police release chilling new video of In-N-Out mass shooting",
+      "url": "https://www.nbcnews.com/news/us-news/idaho-police-release-chilling-new-video-n-mass-shooting-rcna591396",
+      "source": "NBC News",
+      "publishedAt": "2026-08-07T19:10:17Z",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260807-In-Out-shooting-aa-109-d7d023.jpg"
     },
     {
-      "title": "South Korean satellite captures before and after views of SpaceX rocket’s moon crash",
-      "url": "https://apnews.com/article/spacex-rocket-moon-crash-61dc5c43f671623622960013e06aeeb1",
-      "source": "Associated Press",
-      "publishedAt": "2026-08-06T19:46:00Z",
-      "image": "https://dims.apnews.com/dims4/default/78ed727/2147483647/strip/true/crop/546x364+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F44%2F4f%2F071239961579c316e8f6dda9d118%2F1c8a3178e896474a917004ed8605c841"
+      "title": "Senate confirms 74 Trump nominees",
+      "url": "https://www.politico.com/live-updates/2026/08/07/congress/senate-confirms-trump-nominees-01029126",
+      "source": "Politico",
+      "publishedAt": "2026-08-07T18:25:04Z",
+      "image": "https://www.politico.com/dims4/default/c400743/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F92%2Fbe%2Fb8c6e1a44f62bbea2e8ab913e808%2Fu-s-congress-51394.jpg"
     }
   ]
 }

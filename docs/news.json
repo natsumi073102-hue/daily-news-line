@@ -1,48 +1,41 @@
 {
-  "updatedAt": "2026-08-13T07:39:38.811420+09:00",
+  "updatedAt": "2026-08-14T07:40:13.940916+09:00",
   "domestic": [],
   "world": [
     {
-      "title": "CoreWeave Reports New Revenue High of $2.6 Billion as Sales Backlog Grows",
-      "url": "https://www.wsj.com/tech/ai/coreweave-earnings-q2-2026-crwv-stock-50f6fb00",
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-08-11T21:11:00Z",
-      "image": null
+      "title": "Police: 2 adults, 1 child dead in suspected murder-suicide at Hopkins daycare",
+      "url": "https://kstp.com/kstp-news/top-news/2-adults-1-child-killed-in-suspected-murder-suicide-at-hopkins-daycare/",
+      "source": "Kstp.com",
+      "publishedAt": "2026-08-12T19:41:15Z",
+      "image": "https://kstp.com/wp-content/uploads/2026/08/vlcsnap-2026-08-12-10h33m13s286.png"
     },
     {
-      "title": "Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China",
-      "url": "https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html",
+      "title": "Trump says Karoline Leavitt resigning as White House press secretary",
+      "url": "https://www.cnbc.com/2026/08/12/trump-white-house-karoline-leavitt-resigning-.html",
       "source": "CNBC",
-      "publishedAt": "2026-08-11T21:01:13Z",
-      "image": "https://image.cnbcfm.com/api/v1/image/108317415-1780669966906-gettyimages-2279256214-SKOREA_NVIDIA.jpeg?v=1781563682&w=1920&h=1080"
+      "publishedAt": "2026-08-12T19:40:57Z",
+      "image": "https://image.cnbcfm.com/api/v1/image/108336144-1786564303481-108336144-1784224854502-108336144-1784224784029-gettyimages-2285750293-AFP_C2E72FT.jpg?v=1786564315&w=1920&h=1080"
     },
     {
-      "title": "Trump took a secret flight out of Turkey in an elaborate plot to hide his location amid Iran war",
-      "url": "https://www.nbcnews.com/politics/donald-trump/trump-secret-flight-turkey-iran-rcna591860",
-      "source": "NBC News",
-      "publishedAt": "2026-08-11T20:39:22Z",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260811-air-force-one-rs-427562.jpg"
+      "title": "It looks like Apple’s iPhone 18 really will skip the fall launch this year",
+      "url": "https://www.theverge.com/tech/979231/apple-base-iphone-18-launch-delayed",
+      "source": "The Verge",
+      "publishedAt": "2026-08-12T19:27:47Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/DSC01498.jpg?quality=90&strip=all&crop=0%2C10.628272251309%2C100%2C78.743455497382&w=1200"
     },
     {
-      "title": "Trump warns new Hochul, Mamdani pied-à-terre tax could accelerate NYC wealth exodus",
-      "url": "https://www.foxbusiness.com/politics/trump-warns-new-hochul-mamdani-pied-a-terre-tax-could-accelerate-nyc-wealth-exodus",
-      "source": "Fox Business",
-      "publishedAt": "2026-08-11T20:10:00Z",
-      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/09/0/0/mamdani-trump-nyc-concerns.jpg?ve=1&tl=1"
-    },
-    {
-      "title": "What Kyler Murray as QB1 means for Vikings, J.J. McCarthy",
-      "url": "https://www.espn.com/nfl/story/_/id/49582977/new-minnesota-vikings-kyler-murray-jj-mccarthy-starter-qb1",
+      "title": "Russell Westbrook announces NBA retirement after 18 seasons",
+      "url": "https://www.espn.com/nba/story/_/id/49592048/russell-westbrook-announces-nba-retirement-18-seasons",
       "source": "ESPN",
-      "publishedAt": "2026-08-11T19:52:00Z",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0811%2Fr1700324_1296x729_16%2D9.jpg"
+      "publishedAt": "2026-08-12T18:50:00Z",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2019%2F0308%2Fr511444_1296x729_16%2D9.jpg"
     },
     {
-      "title": "Looking to see the solar eclipse from North America? Here's where and when to catch a sliver",
-      "url": "https://apnews.com/article/total-solar-eclipse-nasa-partial-dce4e61ae5d359b659e00673ce82fea7",
-      "source": "Associated Press",
-      "publishedAt": "2026-08-11T19:49:00Z",
-      "image": "https://dims.apnews.com/dims4/default/ae1f547/2147483647/strip/true/crop/3088x2058+0+129/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffc%2Fa8%2F2c3ae6a7a6bfaa311257ba3c803d%2Fa9a4bd169f75463996b39d23541b63e9"
+      "title": "Nick Reiner indicted for murders of parents Rob and Michele",
+      "url": "https://www.nbclosangeles.com/investigations/nick-reiner-indicted-murder-of-parents/3928516/",
+      "source": "NBC Southern California",
+      "publishedAt": "2026-08-12T18:04:13Z",
+      "image": "https://media.nbclosangeles.com/2025/12/image-41.jpg?quality=85&strip=all&resize=1200%2C675"
     }
   ]
 }

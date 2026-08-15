@@ -1,41 +1,41 @@
 {
-  "updatedAt": "2026-08-15T07:21:19.194134+09:00",
+  "updatedAt": "2026-08-16T07:20:14.298675+09:00",
   "domestic": [],
   "world": [
     {
-      "title": "USS Abraham Lincoln to be replaced amid poor conditions for troops deployed to Middle East",
-      "url": "https://www.nbcnews.com/politics/national-security/uss-abraham-lincoln-replaced-poor-troop-conditions-rcna592141",
+      "title": "Jason Arday: Former Cambridge university professor found dead",
+      "url": "https://www.bbc.com/news/articles/c1j1ye6n30no",
+      "source": "BBC News",
+      "publishedAt": "2026-08-14T20:02:02Z",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e1f2/live/c7b603c0-91a2-11f1-964d-6f76397ea067.jpg"
+    },
+    {
+      "title": "Alzheimer's risk may be 35% lower with common menopause treatment, study finds",
+      "url": "https://www.foxnews.com/health/alzheimers-risk-35-percent-lower-common-menopause-treatment-study-finds",
+      "source": "Fox News",
+      "publishedAt": "2026-08-14T20:00:40Z",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/woman-hormone-replacement-therapy.jpg"
+    },
+    {
+      "title": "2 UAE tankers attacked while transiting Strait of Hormuz, and other news from the Middle East",
+      "url": "https://apnews.com/article/iran-uae-us-strait-hormuz-august-14-2026-e8565c608ac5283ec8103c85df924b13",
+      "source": "Associated Press",
+      "publishedAt": "2026-08-14T19:35:00Z",
+      "image": "https://dims.apnews.com/dims4/default/a9bcc0a/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F42%2Fe5%2Fc75f14760e16c594af6c7f4ce8f2%2Ffc228b7f49934d358c4edb2f9e752dd5"
+    },
+    {
+      "title": "Falcons edge rusher James Pearce suspended 8 games by NFL",
+      "url": "https://www.espn.com/nfl/story/_/id/49611663/falcons-edge-rusher-james-pearce-suspended-8-games-nfl",
+      "source": "ESPN",
+      "publishedAt": "2026-08-14T19:28:00Z",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0311%2Fr1626981_1296x729_16%2D9.jpg"
+    },
+    {
+      "title": "Trump dismisses concerns from family members about grim conditions aboard USS Abraham Lincoln",
+      "url": "https://www.nbcnews.com/politics/donald-trump/trump-dismisses-concerns-family-members-grim-conditions-uss-abraham-li-rcna592598",
       "source": "NBC News",
-      "publishedAt": "2026-08-13T19:49:34Z",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260813-uss-abraham-lincoln-vl-1023a-659e38.jpg"
-    },
-    {
-      "title": "A threat, a catering truck and a plan: Why officials deployed an elaborate ruse to get Trump out of Turkey",
-      "url": "https://www.cnn.com/2026/08/13/politics/iran-threat-turkey-plane",
-      "source": "CNN",
-      "publishedAt": "2026-08-13T19:31:35Z",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/01-gettyimages-2284693598.jpg?c=16x9&q=w_800,c_fill"
-    },
-    {
-      "title": "Ticks that cause Lyme and other diseases have migrated south. Are doctors ready?",
-      "url": "https://www.nbcnews.com/health/health-news/ticks-lyme-fever-diseases-north-carolina-threat-south-cdc-rcna592307",
-      "source": "NBC News",
-      "publishedAt": "2026-08-13T19:06:59Z",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260813-deer-tick-blacklegged-Ixodes-scapularis-vl-1236p-ec4aee.jpg"
-    },
-    {
-      "title": "2026-27 NBA Schedule Released for Official Regular-Season Slate",
-      "url": "https://bleacherreport.com/articles/25461486-2026-27-nba-schedule-released-official-regular-season-slate",
-      "source": "Bleacher Report",
-      "publishedAt": "2026-08-13T19:02:17Z",
-      "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-08/2280850987_large_cropped.jpg?w=1120&h=630"
-    },
-    {
-      "title": "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office",
-      "url": "http://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-record-700-million-1236672909/",
-      "source": "Hollywood Reporter",
-      "publishedAt": "2026-08-13T18:33:31Z",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/04/V1-0001_bnd_itlrA_t_4k_rec709_full.89513-H-2026.jpg?w=1296&h=730&crop=1"
+      "publishedAt": "2026-08-14T18:50:01Z",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260814-trump-ch-1407-055a7f.jpg"
     }
   ]
 }

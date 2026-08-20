@@ -1,41 +1,48 @@
 {
-  "updatedAt": "2026-08-20T07:23:27.343837+09:00",
+  "updatedAt": "2026-08-21T07:26:20.676795+09:00",
   "domestic": [],
   "world": [
     {
-      "title": "Trump seeks to open millions of acres of national forests to roads",
-      "url": "https://www.washingtonpost.com/climate-environment/2026/08/18/trump-seeks-open-millions-acres-national-forests-roads/",
-      "source": "The Washington Post",
-      "publishedAt": "2026-08-18T20:00:42Z",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MFEBSYBPCBO2TZHX3G2TKSQNAM_size-normalized.JPG&w=1440"
+      "title": "Wings rookie Azzi Fudd to undergo knee surgery, will miss rest of regular season",
+      "url": "https://sports.yahoo.com/wnba/breaking-news/article/wings-rookie-azzi-fudd-to-undergo-knee-surgery-will-miss-rest-of-regular-season-200903485.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-08-19T20:19:54Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/7ebce98b250f6294207b50a0fc74f9d71e75ca20995cdcefa53a0eb1b81facb9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2F79feb151-7939-4fc8-bcc8-ed9242e40e1a"
     },
     {
-      "title": "Gillian Robertson releases 1st statement since UFC 330 loss, Din Thomas controversy",
-      "url": "https://www.mmafighting.com/ufc/505760/gillian-robertson-releases-1st-statement-since-ufc-330-loss-din-thomas-controversy",
-      "source": "MMA Fighting",
-      "publishedAt": "2026-08-18T19:37:01Z",
-      "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/08/gettyimages-2290663385.jpg?quality=90&strip=all&crop=0%2C1.9449563552572%2C100%2C78.534031413613&w=1200"
-    },
-    {
-      "title": "Jeanie Buss Opposes Reported Sale of Family's Lakers Stake to Bob Iger, Josh Kushner",
-      "url": "https://bleacherreport.com/articles/25474152-jeanie-buss-opposes-reported-sale-familys-lakers-stake-bob-iger-josh-kushner",
-      "source": "Bleacher Report",
-      "publishedAt": "2026-08-18T19:34:02Z",
-      "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-08/2262562457_large_cropped.jpg?w=1120&h=630"
-    },
-    {
-      "title": "Frank Beard, ZZ Top’s Hard-Shuffling Drummer, Dead at 77",
-      "url": "http://www.rollingstone.com/music/music-news/frank-beard-zz-top-drummer-dead-obituary-1235607415/",
-      "source": "Rolling Stone",
-      "publishedAt": "2026-08-18T19:17:21Z",
-      "image": "https://www.rollingstone.com/wp-content/uploads/2026/08/frank-beard-zz-top-pre-obit.jpg?w=1600&h=900&crop=1"
-    },
-    {
-      "title": "Trump is weighing whether to grant Canada a tariff reprieve",
-      "url": "https://www.politico.com/news/2026/08/18/trump-canada-tariff-trade-agreement-01040518",
+      "title": "‘Drop in the bucket’: Why Wall Street will shrug off Bessent’s bond market plans",
+      "url": "https://www.politico.com/news/2026/08/19/treasury-buy-back-debt-bond-market-pain-01041461",
       "source": "Politico",
-      "publishedAt": "2026-08-18T19:09:00Z",
-      "image": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F39%2F31%2F03af984b492ba1befd8350ef405e%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2281267274"
+      "publishedAt": "2026-08-19T20:08:00Z",
+      "image": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F39%2F5a%2F3327c44f4f45b16ca3d8663ba36a%2Ftrump-4-853.jpg"
+    },
+    {
+      "title": "Moderna Shares More Than Double on Success of mRNA Cancer Vaccine",
+      "url": "https://www.wsj.com/health/pharma/moderna-merck-vaccine-succeeds-in-preventing-melanoma-from-returning-540e9e18",
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-08-19T19:49:00Z",
+      "image": null
+    },
+    {
+      "title": "Who is Natalie Harp, Trump's right-hand woman?",
+      "url": "https://www.bbc.com/news/articles/c80nzdjgmk3o",
+      "source": "BBC News",
+      "publishedAt": "2026-08-19T19:02:41Z",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9db2/live/5fb103a0-9c02-11f1-b0bd-839fb1d8b591.jpg"
+    },
+    {
+      "title": "Lindsay Clancy trial ends earlier than expected \"due to unforeseen circumstances\"",
+      "url": "https://www.cbsnews.com/boston/news/lindsay-clancy-trial-watch-live-day-16/",
+      "source": "CBS News",
+      "publishedAt": "2026-08-19T18:48:15Z",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/19/a467c615-2e7b-4216-a6cc-b719ce4d0e07/thumbnail/1200x630/fade2d90cdb1e8b0d5a84e7a5772a3f4/clancy3.jpg"
+    },
+    {
+      "title": "Trump picks Dr. Heidi Overton, a top White House aide, to lead the Food and Drug Administration",
+      "url": "https://apnews.com/article/fda-donald-trump-heidi-overton-marty-makary-a54907d62a2482bd462410c0778266b9",
+      "source": "Associated Press",
+      "publishedAt": "2026-08-19T18:48:00Z",
+      "image": "https://dims.apnews.com/dims4/default/9b7b291/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4b%2F54%2F3994b8c1bdf1f79434fe3d267306%2Fff3b510b2cc44e38995e33c688c343e9"
     }
   ]
 }

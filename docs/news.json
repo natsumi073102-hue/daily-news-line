@@ -1,48 +1,27 @@
 {
-  "updatedAt": "2026-09-02T08:48:54.469477+09:00",
+  "updatedAt": "2026-09-03T08:52:16.417370+09:00",
   "domestic": [],
   "world": [
     {
-      "title": "Supreme Court allows Trump's ballroom construction to proceed",
-      "url": "https://www.axios.com/2026/08/31/supreme-court-trump-white-house-ballroom-construction-ok",
-      "source": "Axios",
-      "publishedAt": "2026-08-31T23:09:18Z",
-      "image": "https://images.axios.com/ZAV0ZTdXc_D2UIio-x89L7i-les=/0x133:5546x3253/1366x768/2026/08/31/1788207606685.jpeg"
+      "title": "Germany blames Russia for drone attack on airport, announces countermeasures",
+      "url": "https://www.washingtonpost.com/world/2026/09/01/germany-blames-russia-drone-attack-airport-announces-countermeasures/",
+      "source": "The Washington Post",
+      "publishedAt": "2026-09-02T00:11:13Z",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PYZT4S3NENE5YX6FUNTZQH4LCA_size-normalized.jpg&w=1440"
     },
     {
-      "title": "The Bentley Supersports: A stripped-out engineer’s indulgence",
-      "url": "https://arstechnica.com/cars/2026/08/the-bentley-supersports-a-stripped-out-engineers-indulgence/",
-      "source": "Ars Technica",
-      "publishedAt": "2026-08-31T23:01:16Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/DragonRed.Supersports-6-1152x648.jpg"
+      "title": "Lindsay Clancy trial jury unable to reach unanimous decision",
+      "url": "https://www.cnn.com/2026/09/01/us/live-news/lindsay-clancy-trial",
+      "source": "CNN",
+      "publishedAt": "2026-09-01T23:06:00Z",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-08-25t154855z-1266586292-rc2r5na1yh3i-rtrmadp-3-massachusetts-crime-clancy.JPG?c=16x9&q=w_800,c_fill"
     },
     {
-      "title": "DA says a teen who recorded San Diego mosque shooting livestream has been charged with murder",
-      "url": "https://apnews.com/article/san-diego-mosque-shooting-20f609e3042817ab67551f4cb439685f",
-      "source": "Associated Press",
-      "publishedAt": "2026-08-31T22:48:00Z",
-      "image": "https://dims.apnews.com/dims4/default/e627cc1/2147483647/strip/true/crop/8640x5757+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F38%2F87%2Fe19ab3c9da4f2e037c77bd651857%2F74c63fffbb6245ee8573d51556cfe881"
-    },
-    {
-      "title": "Trump Endorses U.S. Tax Incentive to Keep Hollywood Production: ‘Let’s Get This Done!’",
-      "url": "https://variety.com/2026/film/news/trump-endorses-federal-incentive-hollywood-1236847834/",
-      "source": "Variety",
-      "publishedAt": "2026-08-31T22:40:00Z",
-      "image": "https://variety.com/wp-content/uploads/2026/08/Donald-Trump.jpg?w=1000&h=563&crop=1"
-    },
-    {
-      "title": "The Google TV Streamer now costs $50 more",
-      "url": "https://www.theverge.com/tech/987032/google-tv-streamer-price-increase",
-      "source": "The Verge",
-      "publishedAt": "2026-08-31T22:32:51Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25562292/DSCF0055.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-    },
-    {
-      "title": "Lindsay Clancy murder trial jury leaves for day without verdict as deliberations pass 17 hours",
-      "url": "https://www.cbsnews.com/boston/news/lindsay-clancy-deliberations-latest/",
-      "source": "CBS News",
-      "publishedAt": "2026-08-31T22:28:44Z",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/31/7c1c47ec-f4f1-4b83-aaff-1d966a91df13/thumbnail/1200x630/1b3bb9a4f6dbc74d2bcdd5644f93880f/clancy2.jpg"
+      "title": "‘Wheel Of Fortune’ Announcer Jim Thornton Suspended, Role Recast",
+      "url": "http://deadline.com/2026/09/wheel-of-fortune-announcer-jim-thornton-suspended-1237064760/",
+      "source": "Deadline",
+      "publishedAt": "2026-09-01T22:52:00Z",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2215782990.jpg?w=1024"
     }
   ]
 }

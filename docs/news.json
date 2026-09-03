@@ -1,27 +1,48 @@
 {
-  "updatedAt": "2026-09-03T08:52:16.417370+09:00",
+  "updatedAt": "2026-09-04T08:47:44.051070+09:00",
   "domestic": [],
   "world": [
     {
-      "title": "Germany blames Russia for drone attack on airport, announces countermeasures",
-      "url": "https://www.washingtonpost.com/world/2026/09/01/germany-blames-russia-drone-attack-airport-announces-countermeasures/",
+      "title": "Southwest Airlines will open first-ever lounges next year",
+      "url": "https://www.washingtonpost.com/travel/2026/09/02/southwest-airlines-will-open-airport-lounges-including-baltimore-next-year/",
       "source": "The Washington Post",
-      "publishedAt": "2026-09-02T00:11:13Z",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PYZT4S3NENE5YX6FUNTZQH4LCA_size-normalized.jpg&w=1440"
+      "publishedAt": "2026-09-02T22:04:47Z",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/MWLFWE4RXKALRNBIY4T3BZED7M.JPG&w=1440"
     },
     {
-      "title": "Lindsay Clancy trial jury unable to reach unanimous decision",
-      "url": "https://www.cnn.com/2026/09/01/us/live-news/lindsay-clancy-trial",
+      "title": "Live updates: Deadlocked Lindsay Clancy jury wraps up fifth day of deliberations",
+      "url": "https://www.cnn.com/2026/09/02/us/live-news/lindsay-clancy-trial",
       "source": "CNN",
-      "publishedAt": "2026-09-01T23:06:00Z",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-08-25t154855z-1266586292-rc2r5na1yh3i-rtrmadp-3-massachusetts-crime-clancy.JPG?c=16x9&q=w_800,c_fill"
+      "publishedAt": "2026-09-02T21:32:00Z",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/090226-gd-clancy-court-pool-29.jpg?c=16x9&q=w_800,c_fill"
     },
     {
-      "title": "‘Wheel Of Fortune’ Announcer Jim Thornton Suspended, Role Recast",
-      "url": "http://deadline.com/2026/09/wheel-of-fortune-announcer-jim-thornton-suspended-1237064760/",
-      "source": "Deadline",
-      "publishedAt": "2026-09-01T22:52:00Z",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2215782990.jpg?w=1024"
+      "title": "Tim Curry's cause of death revealed after 'Rocky Horror' star dies at 80",
+      "url": "https://www.usatoday.com/story/entertainment/celebrities/2026/09/02/tim-curry-cause-of-death/91474727007/",
+      "source": "USA Today",
+      "publishedAt": "2026-09-02T20:52:00Z",
+      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/26/USAT/91476873007-getty-images-106337339.jpg?crop=2140,1203,x0,y237&width=2140&height=1203&format=pjpg&auto=webp"
+    },
+    {
+      "title": "House Democrats block constitutional amendment to lock Supreme Court at 9 justices",
+      "url": "https://www.nbcnews.com/politics/congress/house-democrats-block-constitutional-amendment-supreme-court-justices-rcna595736",
+      "source": "NBC News",
+      "publishedAt": "2026-09-02T20:38:00Z",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-06/230605-supreme-court-justices-jm-1228-8e9534.jpg"
+    },
+    {
+      "title": "DNR: 700+ reports of dead deer in Washington, Waukesha Counties amid virus outbreak",
+      "url": "https://www.wisn.com/article/dnr-700-reports-of-dead-deer-in-washington-waukesha-counties-amid-virus-outbreak/73586794",
+      "source": "WISN Milwaukee",
+      "publishedAt": "2026-09-02T20:28:00Z",
+      "image": "https://kubrick.htvapps.com/htv-prod/ibmig/cms/image/wisn/8133462-8133462.jpg?crop=1.00xw%3A0.753xh%3B0%2C0&resize=1200%3A*"
+    },
+    {
+      "title": "NBA strips Clippers of 5 first-round draft picks, fines Steve Ballmer $30M in Kawhi Leonard salary cap circumvention probe",
+      "url": "https://sports.yahoo.com/nba/breaking-news/article/nba-reportedly-strips-clipper-of-5-first-round-draft-picks-fines-steve-ballmer-30m-in-kawhi-leonard-salary-cap-circumvention-probe-202637985.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-09-02T20:26:37Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/11a387e0fcc6b7feb5e8aee2df8bafdf18115265135988cd4c425f5134e282c7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-09%2F5ebc0820-902b-11f0-9ffa-83fb81332f8b"
     }
   ]
 }

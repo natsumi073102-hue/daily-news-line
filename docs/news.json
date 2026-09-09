@@ -1,41 +1,48 @@
 {
-  "updatedAt": "2026-09-09T08:51:25.208407+09:00",
+  "updatedAt": "2026-09-10T08:50:32.956912+09:00",
   "domestic": [],
   "world": [
     {
-      "title": "EU seeks to reassure a Trump-rattled Greenland with promise of a new partnership and investment",
-      "url": "https://apnews.com/article/greenland-eu-europe-trump-denmark-532e9587dde667b6e878e799fcb43bde",
+      "title": "Mamdani releases records on toxic air in New York after 9/11 attacks",
+      "url": "https://www.aljazeera.com/news/2026/9/8/mamdani-releases-records-on-toxic-air-in-new-york-after-9-11",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-08T23:19:24Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aa064d7c184-1788896471.jpg?resize=1920%2C1440"
+    },
+    {
+      "title": "US banning dairy products, most alcoholic beverages and motorcycles from Canada",
+      "url": "https://apnews.com/article/canada-carney-trump-tariffs-trade-war-a5fbb50d1c30327ae813482556a37ac3",
       "source": "Associated Press",
-      "publishedAt": "2026-09-08T00:18:00Z",
-      "image": "https://dims.apnews.com/dims4/default/cb2ffe6/2147483647/strip/true/crop/8398x5596+0+2/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F54%2F0a%2F3567aebcc5f419850e16849bc4d3%2Fe9a2e035878f4bfd9aad44fe90e791f6"
+      "publishedAt": "2026-09-08T23:19:00Z",
+      "image": "https://dims.apnews.com/dims4/default/a57ac87/2147483647/strip/true/crop/3000x1999+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2a%2F5b%2F32616a7b2c0c7c181c9b05de5a00%2F082dc62054ac40f596ee8836a1789cc2"
     },
     {
-      "title": "Macklemore Says 'Free Palestine' Is Not a 'Criticism' of Jewish People",
-      "url": "https://variety.com/2026/music/news/macklemore-responds-free-palestine-criticism-ed-sheeran-1236854276/",
-      "source": "Variety",
-      "publishedAt": "2026-09-07T21:59:00Z",
-      "image": "https://variety.com/wp-content/uploads/2026/09/GettyImages-2153049908.jpg?crop=0px%2C65px%2C3184px%2C1791px&resize=1000%2C563"
+      "title": "Smithsonian Secretary Lonnie Bunch is leaving amid tensions with Trump",
+      "url": "https://www.nbcnews.com/politics/politics-news/smithsonian-secretary-lonnie-bunch-leaving-fights-trump-rcna596615",
+      "source": "NBC News",
+      "publishedAt": "2026-09-08T23:17:21Z",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260708-lonnie-bunch-smithsonian-mn-1540-4d4f9f.jpg"
     },
     {
-      "title": "Taylor Swift and Travis Kelce match in silky stripes for NYC date night",
-      "url": "https://pagesix.com/2026/09/07/style/taylor-swift-and-travis-kelce-match-in-silky-stripes-for-nyc-date-night/",
-      "source": "Page Six",
-      "publishedAt": "2026-09-07T21:45:00Z",
-      "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/09/aylor-Swift-and-Travis-Kelce-match-in-silky-stripes-for-NYC-date-night.jpg?quality=75&strip=all&w=1200"
+      "title": "A study links prenatal acetaminophen with reproductive changes in girls. Doctors say it remains safe to use when needed",
+      "url": "https://www.cnn.com/2026/09/08/health/acetaminophen-pregnancy-reproductive-changes",
+      "source": "CNN",
+      "publishedAt": "2026-09-08T23:05:29Z",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-841614464.jpg?c=16x9&q=w_800,c_fill"
     },
     {
-      "title": "Exclusive | EverBank to Combine With WaFd to Create $75 Billion Bank",
-      "url": "https://www.wsj.com/business/deals/everbank-to-combine-with-wafd-to-create-75-billion-bank-e71d023c",
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-09-07T20:32:41Z",
-      "image": null
+      "title": "Apple wanted the iPhone Ultra to cost $1,999, new report says",
+      "url": "https://www.gsmarena.com/apple_wanted_the_iphone_ultra_to_cost_1999_new_report_says-news-74523.php",
+      "source": "GSMArena.com",
+      "publishedAt": "2026-09-08T23:02:01Z",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/iphone-ultra-original-price/-952x498w6/gsmarena_000.jpg"
     },
     {
-      "title": "Trump posts map with American flag emblazoned over Canada, Greenland, Mexico",
-      "url": "https://thehill.com/homenews/administration/6075255-trump-map-territorial-ambitions/",
-      "source": "The Hill",
-      "publishedAt": "2026-09-07T20:00:00Z",
-      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/09/AP26245645167995-e1788374586301.jpg?w=1280"
+      "title": "ABC denies 'inaccurate' report 'Jimmy Kimmel Live' will end in 2027",
+      "url": "https://www.usatoday.com/story/entertainment/tv/2026/09/08/jimmy-kimmel-live-ending-2027/91666177007/",
+      "source": "USA Today",
+      "publishedAt": "2026-09-08T22:51:00Z",
+      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/04/USAT/91613858007-182488-0583.jpg?crop=1974,1109,x0,y48&width=1974&height=1109&format=pjpg&auto=webp"
     }
   ]
 }

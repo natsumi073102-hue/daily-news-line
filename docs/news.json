@@ -1,34 +1,41 @@
 {
-  "updatedAt": "2026-09-14T08:54:01.887430+09:00",
+  "updatedAt": "2026-09-15T09:19:57.602328+09:00",
   "domestic": [],
   "world": [
     {
-      "title": "Michigan score as Wolverines beat No. 10 Oklahoma",
-      "url": "https://www.freep.com/story/sports/college/university-michigan/wolverines/2026/09/12/michigan-oklahoma-live-updates-score--live/91717257007/",
-      "source": "Detroit Free Press",
-      "publishedAt": "2026-09-12T21:15:00Z",
-      "image": "https://www.freep.com/gcdn/authoring/authoring-images/2026/09/12/PDTF/91732815007-091226-umou-1-h-070.jpg?crop=4041,2274,x0,y210&width=3200&height=1801&format=pjpg&auto=webp"
+      "title": "Tom Tiffany's plane forced to make emergency water landing after campaign event",
+      "url": "https://www.wisn.com/article/rep-tom-tiffany-in-hospital-after-emergency-plane-landing/73705005",
+      "source": "WISN Milwaukee",
+      "publishedAt": "2026-09-13T23:32:00Z",
+      "image": "https://kubrick.htvapps.com/htv-prod/images/5bda55a0-4222-412b-a5ef-914b75a55191.jpg?crop=1.00xw%3A0.753xh%3B0%2C0&resize=1200%3A*"
     },
     {
-      "title": "Second crypto billionaire donates record $49m to far-right Reform UK",
-      "url": "https://www.aljazeera.com/news/2026/9/12/second-crypto-billionaire-donates-record-49m-to-far-right-reform-uk",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-12T20:47:38Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aa5ae12056c-1789242898.jpg?resize=1920%2C1440"
+      "title": "Alexander Zverev beats Ben Shelton to win the US Open title and extend a drought by American men",
+      "url": "https://apnews.com/article/us-open-mens-final-shelton-zverev-58fc12d28293dd33806e4d07242681d1",
+      "source": "Associated Press",
+      "publishedAt": "2026-09-13T23:25:00Z",
+      "image": "https://dims.apnews.com/dims4/default/1d614f6/2147483647/strip/true/crop/5048x3364+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb1%2Fc7%2Fb3d85273f0ca3d5869cefb8dab87%2F02cf8a4b592a48e591f4ba2b3dd073c7"
     },
     {
-      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-12T20:19:16Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2198353376.jpg?resize=1200,800"
+      "title": "Emmy Awards 2026: What to expect from the ceremony and how to watch",
+      "url": "https://www.bbc.com/news/articles/c80n3xl378ro",
+      "source": "BBC News",
+      "publishedAt": "2026-09-13T23:21:00Z",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ee34/live/754b5420-8b33-11f1-b170-2de1c3aec73b.jpg"
     },
     {
-      "title": "Trump endorses Irish reunification, breaking with decades of U.S. policy",
-      "url": "https://www.washingtonpost.com/world/2026/09/12/trump-dublin-says-he-would-love-see-irish-reunification/",
-      "source": "The Washington Post",
-      "publishedAt": "2026-09-12T19:52:40Z",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4ILCJI5O4RWEFABVYBI4HUV2B4_size-normalized.jpg&w=1440"
+      "title": "How Carney plans to sell Canada to the world's biggest investors",
+      "url": "https://www.bbc.com/news/articles/c0m3neyyzm7o",
+      "source": "BBC News",
+      "publishedAt": "2026-09-13T23:03:06Z",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b067/live/866137e0-adff-11f1-b1d1-571ed4d7ff2c.jpg"
+    },
+    {
+      "title": "Hayden Panettiere's boyfriend Brian Hickerson involved in bloody bar altercation weeks after star's death",
+      "url": "https://www.foxnews.com/entertainment/hayden-panettiere-boyfriend-brian-hickerson-bloody-bar-altercation-weeks-after-star-death",
+      "source": "Fox News",
+      "publishedAt": "2026-09-13T21:34:06Z",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/brian-hickerson.jpg"
     }
   ]
 }

@@ -1,41 +1,48 @@
 {
-  "updatedAt": "2026-09-16T08:58:26.319517+09:00",
+  "updatedAt": "2026-09-17T09:07:56.589005+09:00",
   "domestic": [],
   "world": [
     {
-      "title": "Scientists Find First Adult T. Rex Trackway – And The Footprints Are Human-Sized",
-      "url": "https://www.sciencealert.com/scientists-find-first-adult-t-rex-trackway-and-the-footprints-are-human-sized",
-      "source": "ScienceAlert",
-      "publishedAt": "2026-09-14T22:18:42Z",
-      "image": "https://www.sciencealert.com/images/2026/09/trexprint.jpg"
-    },
-    {
-      "title": "Mitch McConnell returns to the Senate after three-month absence",
-      "url": "https://www.nbcnews.com/politics/congress/mitch-mcconnell-returns-senate-three-month-absence-rcna597815",
-      "source": "NBC News",
-      "publishedAt": "2026-09-14T22:14:00Z",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260914-Mitch-McConnell-ew-605p-d57d71.jpg"
-    },
-    {
-      "title": "Emmy Awards 2026 Photos: Best Of The Red Carpet",
-      "url": "https://deadline.com/gallery/emmy-awards-2026-photos-best-of-the-red-carpet/",
-      "source": "Deadline",
-      "publishedAt": "2026-09-14T21:40:00Z",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Emmys-2026_39c674.jpg?w=1024"
-    },
-    {
-      "title": "Hegseth allies campaign to put loyalist in Army secretary job",
-      "url": "https://www.politico.com/news/2026/09/14/hegseth-parnell-army-secretary-campaign-01075000",
-      "source": "Politico",
-      "publishedAt": "2026-09-14T21:31:00Z",
-      "image": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F14%2F7f%2Fbcd92136439c9776c4b55c33516b%2Felection-2024-trump-14277.jpg"
-    },
-    {
-      "title": "Deadly bacteria detected as NYC orders emergency cleaning of cooling towers",
-      "url": "https://www.foxnews.com/health/deadly-bacteria-detected-nyc-orders-emergency-cleaning-cooling-towers",
+      "title": "Common antibiotic linked to higher risk of death in adults, major study finds",
+      "url": "https://www.foxnews.com/health/common-antibiotic-linked-higher-risk-death-adults-major-study-finds",
       "source": "Fox News",
-      "publishedAt": "2026-09-14T21:04:42Z",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/woman-coughing.jpg"
+      "publishedAt": "2026-09-15T23:47:30Z",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/man-taking-pill.jpg"
+    },
+    {
+      "title": "Senate fails to advance crypto bill, dooming the effort this Congress",
+      "url": "https://www.washingtonpost.com/business/2026/09/15/senate-fails-advance-crypto-bill-dooming-effort-this-congress/",
+      "source": "The Washington Post",
+      "publishedAt": "2026-09-15T23:40:59Z",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/YRZVRDESVV6OJRJ4NECNPDWG3M.JPG&w=1440"
+    },
+    {
+      "title": "Ed Sheeran’s Tour Openers, Backing Band Resign After Macklemore Removal",
+      "url": "https://pitchfork.com/story/ed-sheeran-addresses-macklemores-removal-from-tour-in-new-statement/",
+      "source": "Pitchfork",
+      "publishedAt": "2026-09-15T23:40:48Z",
+      "image": "https://media.pitchfork.com/photos/6aa977facfdc3057be077d4b/16:9/w_1280,c_limit/Ed-Sheeran-Macklemore.jpeg"
+    },
+    {
+      "title": "Kennedy Center prepares to close as Trump threatens to withhold repairs",
+      "url": "https://www.washingtonpost.com/style/2026/09/15/judge-bars-kennedy-center-adding-trumps-name-building/",
+      "source": "The Washington Post",
+      "publishedAt": "2026-09-15T23:16:35Z",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/2IZQGB5YWB2DRKQ33A3ZCCJEVU.jpg&w=1440"
+    },
+    {
+      "title": "Kash Patel defends FBI’s new policy on bestiality at Senate hearing",
+      "url": "https://www.nbcnews.com/politics/congress/kash-patel-defends-new-fbi-policy-bestiality-senate-hearing-rcna598017",
+      "source": "NBC News",
+      "publishedAt": "2026-09-15T22:47:18Z",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260915-kash-patel-ch-1617-6c80b0.jpg"
+    },
+    {
+      "title": "The Roman telescope has enough gas for 22 years, double NASA’s expectations",
+      "url": "https://arstechnica.com/space/2026/09/the-roman-telescope-has-enough-gas-for-22-years-double-nasas-expectations/",
+      "source": "Ars Technica",
+      "publishedAt": "2026-09-15T22:26:32Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/KSC-20260821-PH-SPX01_0007large-1152x648.jpg"
     }
   ]
 }

@@ -1,48 +1,41 @@
 {
-  "updatedAt": "2026-09-24T09:15:09.458563+09:00",
+  "updatedAt": "2026-09-25T09:17:32.518712+09:00",
   "domestic": [],
   "world": [
     {
-      "title": "Trump says he’s called for a ban on diesel exports",
-      "url": "https://www.washingtonpost.com/business/2026/09/22/trump-administration-examining-whether-do-diesel-export-ban/",
-      "source": "The Washington Post",
-      "publishedAt": "2026-09-22T22:25:37Z",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/DSUCRXGMUI53T2XAPVVW6O6CCE.JPG&w=1440"
+      "title": "Week 3 NFL score predictions, picks: Model reveals projections from 10,000 simulations",
+      "url": "https://www.cbssports.com/betting/news/week-3-2026-nfl-score-predictions-picks-projections-bets/",
+      "source": "CBS Sports",
+      "publishedAt": "2026-09-23T23:45:41Z",
+      "image": "https://sportshub.cbsistatic.com/i/r/2026/09/21/fe8e7d38-fe0e-4e6f-841f-ec8fa7188704/thumbnail/1200x675/acd677ea78400bd8c9c4c34b23656f56/matthew-stafford-rams-cbs.jpg"
     },
     {
-      "title": "Hayden Panettiere died from an overdose involving fentanyl. She had just gone to rehab, coroner says",
-      "url": "https://apnews.com/article/hayden-panettiere-cause-of-death-drugs-fentanyl-229349e2bb6e19d985372d8524b09fc8",
-      "source": "Associated Press",
-      "publishedAt": "2026-09-22T21:57:00Z",
-      "image": "https://dims.apnews.com/dims4/default/6e89395/2147483647/strip/true/crop/2854x1902+73+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb4%2F55%2F9e5b623cded9f13d4e27500a1cf2%2F14f1983cc2e54afdb12e540ff19669d6"
+      "title": "Meta’s next VR device isn’t a headset — it’s glasses",
+      "url": "https://www.theverge.com/tech/999517/meta-vr-glasses-connect-2026-hands-on",
+      "source": "The Verge",
+      "publishedAt": "2026-09-23T23:42:10Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/20260922_C0744.00_29_03_12.Still016.jpg?quality=90&strip=all&crop=0%2C10.741088940398%2C100%2C78.517822119203&w=1200"
     },
     {
-      "title": "Sen. Jon Husted: Iran war ‘needs to come to an end as quickly as possible’",
-      "url": "https://www.politico.com/news/2026/09/22/jon-husted-iran-war-quick-end-trump-01088614",
-      "source": "Politico",
-      "publishedAt": "2026-09-22T21:48:00Z",
-      "image": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F26%2Ff1%2Fab8692f4460096481469065c222f%2Fu-s-congress-7695.jpg"
+      "title": "Sturm Und Drang At Warner Bros Amid Paramount Merger Has Insiders Wondering If The Brand Survives",
+      "url": "http://deadline.com/2026/09/paramount-merger-will-warner-bros-survive-1237111495/",
+      "source": "Deadline",
+      "publishedAt": "2026-09-23T23:34:00Z",
+      "image": "https://deadline.com/wp-content/uploads/2026/02/paramount-warner-bros-towers.jpg?w=1024"
     },
     {
-      "title": "US to build two military bases in Greenland under new deal with Denmark",
-      "url": "https://www.bbc.com/news/articles/c9dr74g32g8go",
-      "source": "BBC News",
-      "publishedAt": "2026-09-22T21:36:55Z",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ad23/live/08b181f0-b6b6-11f1-8448-334c53ba4316.jpg"
-    },
-    {
-      "title": "ICE officer who shot man in Austin was issued a body cam but wasn’t wearing it",
-      "url": "https://www.nbcnews.com/news/us-news/ice-officer-shot-man-austin-wasnt-wearing-body-camera-rcna599263",
+      "title": "Federal authorities investigating attorney, accountant linked to Epstein’s estate, source says",
+      "url": "https://www.nbcnews.com/news/us-news/federal-authorities-investigating-attorney-accountant-linked-epsteins-rcna599489",
       "source": "NBC News",
-      "publishedAt": "2026-09-22T21:20:58Z",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260922-austin-ice-shooting-mn-1425-52c214.jpg"
+      "publishedAt": "2026-09-23T22:46:32Z",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251120-jeffrey-epstein-ew-624p-078d49.jpg"
     },
     {
-      "title": "Nearly 1 in 6 Kids on GLP-1s Developed This Problem Within a Year",
-      "url": "https://gizmodo.com/nearly-1-in-6-kids-on-glp-1s-developed-this-problem-within-a-year-2000815568",
-      "source": "Gizmodo.com",
-      "publishedAt": "2026-09-22T20:45:33Z",
-      "image": "https://gizmodo.com/app/uploads/2024/06/444551fe1626ec99bc2a760b9bcd99eb.jpg"
+      "title": "RFK Jr.'s CDC isn’t letting states order COVID-19 shots for kids, blocking access",
+      "url": "https://arstechnica.com/health/2026/09/rfk-jr-s-cdc-isnt-letting-states-order-covid-19-shots-for-kids-blocking-access/",
+      "source": "Ars Technica",
+      "publishedAt": "2026-09-23T22:17:25Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-1241447966-1152x648.jpeg"
     }
   ]
 }

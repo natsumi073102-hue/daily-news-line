@@ -1,41 +1,41 @@
 {
-  "updatedAt": "2026-09-27T09:16:18.219580+09:00",
+  "updatedAt": "2026-09-28T09:18:33.225438+09:00",
   "domestic": [],
   "world": [
     {
-      "title": "Stock Market Today: Bond Yields Drop With Oil Prices Near End of Volatile Week — Live Updates",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-25-2026",
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-09-25T22:22:00Z",
-      "image": null
+      "title": "College football scores, live updates: Oregon vs. USC, Texas A&M vs. LSU and more",
+      "url": "https://sports.yahoo.com/college-football/live/college-football-live-updates-scores-results-oregon-vs-usc-texas-am-vs-lsu-missouri-vs-mississippi-state-texas-florida-iowa-win-142105328.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-09-27T00:34:00Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/41c672edcc2e0c478bf47a7f9dc0acaf63675fafffa48d2c4385452681afb253/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F6c73a34f-4b3b-432f-aa3f-54acff7c16a8"
     },
     {
-      "title": "Supreme Court for the third time rejects Republican redistricting push in Missouri",
-      "url": "https://www.nbcnews.com/politics/elections/supreme-court-third-time-rejects-republican-redistricting-push-missour-rcna599218",
-      "source": "NBC News",
-      "publishedAt": "2026-09-25T22:04:00Z",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260922-missouri-voting-mn-1055-1b838c.jpg"
+      "title": "Recap: Iowa stuns Michigan on last-second touchdown pass",
+      "url": "https://www.kcci.com/article/iowa-michigan-football-score-updates-highlights-stats-injury-report/73897006",
+      "source": "KCCI Des Moines",
+      "publishedAt": "2026-09-27T00:10:00Z",
+      "image": "https://kubrick.htvapps.com/htv-prod/images/e089a114-b959-42cd-a318-a8e1993a6c18.jpg?crop=1.00xw%3A0.846xh%3B0%2C0.0318xh&resize=1200%3A*"
     },
     {
-      "title": "Viral moment brings humor to painful Packers performance in loss to the Falcons",
-      "url": "https://fox11online.com/sports/packers-and-nfl/viral-moment-brings-humor-to-painful-packers-performance-in-loss-to-the-falcons-pulse-green-bay-atlanta-maddie-clark-fan-lambeau-field",
-      "source": "Fox11online.com",
-      "publishedAt": "2026-09-25T21:49:07Z",
-      "image": "https://fox11online.com/resources/media2/16x9/1920/1320/center/90/2e03ed78-0b4e-4c16-ba20-c084112d1798-PulseGirl_frame_255.jpeg"
+      "title": "Woolly mammoth to be resurrected with the help of AI: scientists",
+      "url": "https://nypost.com/2026/09/26/science/ai-enlisted-as-woolly-mammoth-revival-timeline-slips-to-2030s/",
+      "source": "New York Post",
+      "publishedAt": "2026-09-26T21:48:00Z",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/142541554.jpg?quality=75&strip=all&w=1200"
     },
     {
-      "title": "The Major Social Media Platforms Are All Rejecting Paid Ads for ‘Musk’ (Exclusive)",
-      "url": "http://www.hollywoodreporter.com/business/digital/elon-musk-documentary-trailer-rejected-tiktok-youtube-1236710259/",
-      "source": "Hollywood Reporter",
-      "publishedAt": "2026-09-25T21:26:59Z",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/muskzi.jpg?w=1440&h=810&crop=1"
+      "title": "Powerful nor'easter causes coastal flooding and knocks out power to parts of the northeast US",
+      "url": "https://apnews.com/article/storm-flooding-northeast-d6f4c4b32768505f8ed22ebfb6cd6b57",
+      "source": "Associated Press",
+      "publishedAt": "2026-09-26T21:30:00Z",
+      "image": "https://dims.apnews.com/dims4/default/a67993b/2147483647/strip/true/crop/3714x2475+0+10/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F87%2F5e%2F4eda6bb975208d104fd7ed7f944b%2Ffefaf17b4a2d48ac9a44b0865915582d"
     },
     {
-      "title": "Trump will hit several deep-red states in October campaign blitz",
-      "url": "https://www.politico.com/news/2026/09/25/trump-midterms-travel-iowa-florida-red-states-01093710",
-      "source": "Politico",
-      "publishedAt": "2026-09-25T20:48:00Z",
-      "image": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F2b%2F5b%2Ff7b6fd914071bd705d4609e9d2bf%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2296204681"
+      "title": "Mother of woman found hanging in tree shocked as police say body was staged",
+      "url": "https://www.bbc.com/news/articles/cq4gmmdl52rgo",
+      "source": "BBC News",
+      "publishedAt": "2026-09-26T21:13:13Z",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a17c/live/ff226520-ac63-11f1-be57-03729df1d736.jpg"
     }
   ]
 }

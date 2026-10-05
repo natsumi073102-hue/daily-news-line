@@ -1,41 +1,48 @@
 {
-  "updatedAt": "2026-10-04T09:21:58.614143+09:00",
+  "updatedAt": "2026-10-05T09:27:23.830037+09:00",
   "domestic": [],
   "world": [
     {
-      "title": "Man finds out his biological father is Doobie Brothers’ Michael McDonald",
-      "url": "https://www.washingtonpost.com/entertainment/music/2026/10/02/adopted-man-finds-out-his-biological-father-is-michael-mcdonald/",
-      "source": "The Washington Post",
-      "publishedAt": "2026-10-02T21:42:15Z",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/ERSEQ2LLDBVONKV63MFCUMEMEI.jpeg&w=1440"
+      "title": "Yemen’s army says targets Houthis in hundreds of strikes, killing 700",
+      "url": "https://www.aljazeera.com/news/2026/10/3/over-1500-houthi-casualties-in-past-24-hours-yemeni-army-says",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-10-04T00:00:00Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6abea14411aa-1790878020.jpg?resize=1200%2C675"
     },
     {
-      "title": "Google already rolling out Android 17 QPR3 Beta 1 for Pixel",
-      "url": "http://9to5google.com/2026/10/02/android-17-qpr3-beta-1-pixel/",
-      "source": "9to5google.com",
-      "publishedAt": "2026-10-02T20:54:00Z",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Android-17-launch-logo-7.jpg?quality=82&strip=all&resize=1200,628"
+      "title": "Padres make minimal changes to roster for NLDS vs. Brewers",
+      "url": "https://www.mlb.com/news/padres-2026-nl-division-series-roster",
+      "source": "MLB.com",
+      "publishedAt": "2026-10-03T22:41:15Z",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/hha6ppkkx5dnwjo5puij.jpg"
     },
     {
-      "title": "Apple confirms iPhone 18 Pro Max AT&T cellular issues, affected devices require hardware replacement",
-      "url": "https://9to5mac.com/2026/10/02/apple-confirms-iphone-18-pro-max-att-cellular-issues-affected-devices-require-hardware-replacement/",
-      "source": "9to5Mac",
-      "publishedAt": "2026-10-02T20:47:00Z",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-photos-21.jpg?quality=82&strip=all&resize=1200,628"
+      "title": "Six aboard missing Boston-bound medical plane off Nantucket",
+      "url": "https://www.wcvb.com/article/coast-guard-searches-for-missing-plane-off-nantucket/74003394",
+      "source": "WCVB Boston",
+      "publishedAt": "2026-10-03T22:36:00Z",
+      "image": "https://kubrick.htvapps.com/htv-prod/images/9bfbf5b0-771c-4d8e-a0cc-fb40bb29f9d0.png?crop=1.00xw%3A1.00xh%3B0%2C0&resize=1200%3A*"
     },
     {
-      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
-      "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
-      "source": "The Verge",
-      "publishedAt": "2026-10-02T20:08:40Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268759_Mac_Mini_AKrales_0079.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+      "title": "UFC 332: Live results, analysis for Silva vs. Wang",
+      "url": "https://www.espn.com/mma/story/_/id/50068663/ufc-332-live-results-analysis-natalia-silva-vs-wang-cong",
+      "source": "ESPN",
+      "publishedAt": "2026-10-03T22:00:00Z",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0930%2Fr1723967_1296x729_16%2D9.jpg"
     },
     {
-      "title": "Christa Pike unconscious, on a ventilator at Nashville hospital, her lawyers say",
-      "url": "https://www.nbcnews.com/news/us-news/christa-pike-unconscious-ventilator-nashville-hospital-lawyers-say-rcna601195",
-      "source": "NBC News",
-      "publishedAt": "2026-10-02T20:08:28Z",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/1261001-christa-pike-16x9-mn-0830-1cb1ff.jpg"
+      "title": "Rihanna Has Blunt 1-Word Response After EJ Johnson's PFW Shade",
+      "url": "https://www.tmz.com/2026/10/03/rihanna-responds-to-ej-johnson-dior-show-comment/",
+      "source": "TMZ",
+      "publishedAt": "2026-10-03T21:24:37Z",
+      "image": "https://imagez.tmz.com/image/b9/16by9/2026/10/03/b9eab09da7f64fd3ac3f4fd380a8b3fd_xl.png"
+    },
+    {
+      "title": "Ted Cruz blasts JD Vance as ‘insecure,’ says he’s focused on helping GOP win midterms",
+      "url": "https://www.politico.com/news/2026/10/03/ted-cruz-blasts-jd-vance-as-insecure-says-hes-focused-on-helping-gop-win-midterms-01106033",
+      "source": "Politico",
+      "publishedAt": "2026-10-03T20:20:00Z",
+      "image": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F6c%2F05%2Fd021704d475598303f777d53e4c5%2Felection-2-26-republicans-14467.jpg"
     }
   ]
 }

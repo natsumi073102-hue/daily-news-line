@@ -1,48 +1,34 @@
 {
-  "updatedAt": "2026-10-05T09:27:23.830037+09:00",
+  "updatedAt": "2026-10-06T11:04:27.590470+09:00",
   "domestic": [],
   "world": [
     {
-      "title": "Yemen’s army says targets Houthis in hundreds of strikes, killing 700",
-      "url": "https://www.aljazeera.com/news/2026/10/3/over-1500-houthi-casualties-in-past-24-hours-yemeni-army-says",
+      "title": "France to shutter up to 500 schools as more student protests called",
+      "url": "https://www.aljazeera.com/news/2026/10/4/france-to-shutter-up-to-500-schools-as-more-student-protests-called",
       "source": "Al Jazeera English",
-      "publishedAt": "2026-10-04T00:00:00Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6abea14411aa-1790878020.jpg?resize=1200%2C675"
+      "publishedAt": "2026-10-05T01:58:52Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ac2853100e5-1791132977.jpg?resize=1920%2C1440"
     },
     {
-      "title": "Padres make minimal changes to roster for NLDS vs. Brewers",
-      "url": "https://www.mlb.com/news/padres-2026-nl-division-series-roster",
-      "source": "MLB.com",
-      "publishedAt": "2026-10-03T22:41:15Z",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/hha6ppkkx5dnwjo5puij.jpg"
+      "title": "U.S. B-1 bombers evacuated from UK base after attack threats from Iran",
+      "url": "https://www.axios.com/2026/10/04/us-b-1-bombers-evacuated-from-uk-base-after-attack-threats-from-iran",
+      "source": "Axios",
+      "publishedAt": "2026-10-04T23:52:25Z",
+      "image": "https://images.axios.com/P7fuzebT7JnOdl11CKOJtJ8h2yk=/0x0:6018x3385/1366x768/2026/10/04/1791153152935.jpeg"
     },
     {
-      "title": "Six aboard missing Boston-bound medical plane off Nantucket",
-      "url": "https://www.wcvb.com/article/coast-guard-searches-for-missing-plane-off-nantucket/74003394",
-      "source": "WCVB Boston",
-      "publishedAt": "2026-10-03T22:36:00Z",
-      "image": "https://kubrick.htvapps.com/htv-prod/images/9bfbf5b0-771c-4d8e-a0cc-fb40bb29f9d0.png?crop=1.00xw%3A1.00xh%3B0%2C0&resize=1200%3A*"
-    },
-    {
-      "title": "UFC 332: Live results, analysis for Silva vs. Wang",
-      "url": "https://www.espn.com/mma/story/_/id/50068663/ufc-332-live-results-analysis-natalia-silva-vs-wang-cong",
+      "title": "Jackson Chourio walk-off single lifts Brewers to 2-0 NLDS edge",
+      "url": "https://www.espn.com/mlb/story/_/id/50105344/jackson-chourio-walk-single-lifts-brewers-2-0-nlds-edge",
       "source": "ESPN",
-      "publishedAt": "2026-10-03T22:00:00Z",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0930%2Fr1723967_1296x729_16%2D9.jpg"
+      "publishedAt": "2026-10-04T23:46:00Z",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1004%2Fr1726105_1296x729_16%2D9.jpg"
     },
     {
-      "title": "Rihanna Has Blunt 1-Word Response After EJ Johnson's PFW Shade",
-      "url": "https://www.tmz.com/2026/10/03/rihanna-responds-to-ej-johnson-dior-show-comment/",
-      "source": "TMZ",
-      "publishedAt": "2026-10-03T21:24:37Z",
-      "image": "https://imagez.tmz.com/image/b9/16by9/2026/10/03/b9eab09da7f64fd3ac3f4fd380a8b3fd_xl.png"
-    },
-    {
-      "title": "Ted Cruz blasts JD Vance as ‘insecure,’ says he’s focused on helping GOP win midterms",
-      "url": "https://www.politico.com/news/2026/10/03/ted-cruz-blasts-jd-vance-as-insecure-says-hes-focused-on-helping-gop-win-midterms-01106033",
+      "title": "US Marine arrested for alleged killing of a woman on Okinawa, triggers outrage from Japan",
+      "url": "https://www.politico.com/news/2026/10/04/us-marine-arrested-for-alleged-killing-of-a-woman-on-okinawa-triggers-outrage-from-japan-01106416",
       "source": "Politico",
-      "publishedAt": "2026-10-03T20:20:00Z",
-      "image": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F6c%2F05%2Fd021704d475598303f777d53e4c5%2Felection-2-26-republicans-14467.jpg"
+      "publishedAt": "2026-10-04T23:24:00Z",
+      "image": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F14%2F54%2F7aba887a4330a1abf87b85d169c6%2Fjapan-okinawa-34813.jpg"
     }
   ]
 }

@@ -1,34 +1,48 @@
 {
-  "updatedAt": "2026-10-06T11:04:27.590470+09:00",
+  "updatedAt": "2026-10-07T10:13:27.671568+09:00",
   "domestic": [],
   "world": [
     {
-      "title": "France to shutter up to 500 schools as more student protests called",
-      "url": "https://www.aljazeera.com/news/2026/10/4/france-to-shutter-up-to-500-schools-as-more-student-protests-called",
+      "title": "Yemeni gov’t forces aim for Sanaa, but Houthi defeat will be a challenge",
+      "url": "https://www.aljazeera.com/news/2026/10/5/yemeni-govt-forces-aim-for-sanaa-but-houthi-defeat-will-be-a-challenge",
       "source": "Al Jazeera English",
-      "publishedAt": "2026-10-05T01:58:52Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ac2853100e5-1791132977.jpg?resize=1920%2C1440"
+      "publishedAt": "2026-10-06T00:56:15Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261003__D2699KL__v2__HighRes__TopshotYemenSaudiIsranUsIsraelWar-1791192768.jpg?resize=1920%2C1440"
     },
     {
-      "title": "U.S. B-1 bombers evacuated from UK base after attack threats from Iran",
-      "url": "https://www.axios.com/2026/10/04/us-b-1-bombers-evacuated-from-uk-base-after-attack-threats-from-iran",
-      "source": "Axios",
-      "publishedAt": "2026-10-04T23:52:25Z",
-      "image": "https://images.axios.com/P7fuzebT7JnOdl11CKOJtJ8h2yk=/0x0:6018x3385/1366x768/2026/10/04/1791153152935.jpeg"
+      "title": "Falcons vs. Saints score, live updates: Bijan Robinson rips off 59-yard TD on opening drive as Atlanta takes early lead",
+      "url": "https://sports.yahoo.com/nfl/live/falcons-saints-score-live-updates-inactives-highlights-stats-where-to-watch-week-4-monday-night-football-224500412.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-10-06T00:56:00Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/d00128784629f53bb8693ccf67d5688de077441ef97efc37876ddaa6c60869ab/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F5295acaa-d733-4721-97e3-29f14331d175"
     },
     {
-      "title": "Jackson Chourio walk-off single lifts Brewers to 2-0 NLDS edge",
-      "url": "https://www.espn.com/mlb/story/_/id/50105344/jackson-chourio-walk-single-lifts-brewers-2-0-nlds-edge",
-      "source": "ESPN",
-      "publishedAt": "2026-10-04T23:46:00Z",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1004%2Fr1726105_1296x729_16%2D9.jpg"
+      "title": "‘Days of Our Lives’ actor Robert Kelker-Kelly dead at 62",
+      "url": "https://pagesix.com/2026/10/05/celebrity-news/days-of-our-lives-actor-robert-kelker-kelly-dead-at-62/",
+      "source": "Page Six",
+      "publishedAt": "2026-10-06T00:24:29Z",
+      "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/10/143877924.jpg?quality=75&strip=all&w=1200"
     },
     {
-      "title": "US Marine arrested for alleged killing of a woman on Okinawa, triggers outrage from Japan",
-      "url": "https://www.politico.com/news/2026/10/04/us-marine-arrested-for-alleged-killing-of-a-woman-on-okinawa-triggers-outrage-from-japan-01106416",
-      "source": "Politico",
-      "publishedAt": "2026-10-04T23:24:00Z",
-      "image": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F14%2F54%2F7aba887a4330a1abf87b85d169c6%2Fjapan-okinawa-34813.jpg"
+      "title": "White Sox vs. Guardians score, live updates: Gavin Williams, Anthony Kay take the mound for Game 2 of ALDS",
+      "url": "https://sports.yahoo.com/mlb/breaking-news/live/white-sox-guardians-box-score-live-updates-starting-pitchers-news-highlights-stats-where-to-watch-alds-200000320.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-10-06T00:10:00Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/65c0cd6485cef3497ee0b8c4c9bdd608c8d41e203f17dd5902ccd496fc43fa8e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F3a1edf91-629a-4638-bb4d-8c4d2d805465"
+    },
+    {
+      "title": "NYT Strands hints, answers for October 5, 2026",
+      "url": "https://mashable.com/entertainment/strands-nyt-hint-october-5-2026",
+      "source": "Mashable",
+      "publishedAt": "2026-10-06T00:08:40Z",
+      "image": "https://helios-i.mashable.com/imagery/articles/04W7UoSz8fYRtfjEJ1OjAbi/hero-image.fill.size_1200x675.v1790882691.jpg"
+    },
+    {
+      "title": "Longshot Bid to Block Paramount-Warner Bros. Discovery Merger Filed to Supreme Court",
+      "url": "http://www.hollywoodreporter.com/business/business-news/bid-block-paramount-warner-bros-merger-supreme-court-1236722830/",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2026-10-05T22:52:52Z",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/02/GettyImages-2261716704.jpg?w=1440&h=810&crop=1"
     }
   ]
 }

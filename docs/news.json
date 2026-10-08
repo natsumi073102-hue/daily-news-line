@@ -1,48 +1,34 @@
 {
-  "updatedAt": "2026-10-07T10:13:27.671568+09:00",
+  "updatedAt": "2026-10-08T10:34:35.845143+09:00",
   "domestic": [],
   "world": [
     {
-      "title": "Yemeni gov’t forces aim for Sanaa, but Houthi defeat will be a challenge",
-      "url": "https://www.aljazeera.com/news/2026/10/5/yemeni-govt-forces-aim-for-sanaa-but-houthi-defeat-will-be-a-challenge",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-10-06T00:56:15Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261003__D2699KL__v2__HighRes__TopshotYemenSaudiIsranUsIsraelWar-1791192768.jpg?resize=1920%2C1440"
+      "title": "Tropical threat brewing in Gulf could impact U.S. as a hurricane this weekend. See maps, possible path.",
+      "url": "https://www.cbsnews.com/news/hurricane-season-tropical-threat-gulf-us/",
+      "source": "CBS News",
+      "publishedAt": "2026-10-07T00:14:07Z",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/06/6f21661f-a163-4cd4-bbd9-69116d4e757e/thumbnail/1200x630g7/0bf5e4eb9e2c97f788cd26ece43a9e60/92l-spaghetti-map-gulf.jpg"
     },
     {
-      "title": "Falcons vs. Saints score, live updates: Bijan Robinson rips off 59-yard TD on opening drive as Atlanta takes early lead",
-      "url": "https://sports.yahoo.com/nfl/live/falcons-saints-score-live-updates-inactives-highlights-stats-where-to-watch-week-4-monday-night-football-224500412.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-10-06T00:56:00Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/d00128784629f53bb8693ccf67d5688de077441ef97efc37876ddaa6c60869ab/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F5295acaa-d733-4721-97e3-29f14331d175"
+      "title": "France shuts down nearly 900 schools as violent education protests escalate",
+      "url": "https://www.nbcnews.com/world/europe/france-protests-riot-police-students-tear-gas-fires-education-rcna601878",
+      "source": "NBC News",
+      "publishedAt": "2026-10-06T23:26:29Z",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261006-france-protest-ch-1129-91a195.jpg"
     },
     {
-      "title": "‘Days of Our Lives’ actor Robert Kelker-Kelly dead at 62",
-      "url": "https://pagesix.com/2026/10/05/celebrity-news/days-of-our-lives-actor-robert-kelker-kelly-dead-at-62/",
-      "source": "Page Six",
-      "publishedAt": "2026-10-06T00:24:29Z",
-      "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/10/143877924.jpg?quality=75&strip=all&w=1200"
+      "title": "‘A Skydance Corp.’: David Ellison immediately puts his stamp on Warner Bros.",
+      "url": "https://www.nbcnews.com/business/media/skydance-corp-day-1-warner-bros-discovery-rebrands-david-ellison-era-rcna601941",
+      "source": "NBC News",
+      "publishedAt": "2026-10-06T22:31:35Z",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261006-warner-brothers-skydance-ew-253p-53ea63.jpg"
     },
     {
-      "title": "White Sox vs. Guardians score, live updates: Gavin Williams, Anthony Kay take the mound for Game 2 of ALDS",
-      "url": "https://sports.yahoo.com/mlb/breaking-news/live/white-sox-guardians-box-score-live-updates-starting-pitchers-news-highlights-stats-where-to-watch-alds-200000320.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-10-06T00:10:00Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/65c0cd6485cef3497ee0b8c4c9bdd608c8d41e203f17dd5902ccd496fc43fa8e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F3a1edf91-629a-4638-bb4d-8c4d2d805465"
-    },
-    {
-      "title": "NYT Strands hints, answers for October 5, 2026",
-      "url": "https://mashable.com/entertainment/strands-nyt-hint-october-5-2026",
-      "source": "Mashable",
-      "publishedAt": "2026-10-06T00:08:40Z",
-      "image": "https://helios-i.mashable.com/imagery/articles/04W7UoSz8fYRtfjEJ1OjAbi/hero-image.fill.size_1200x675.v1790882691.jpg"
-    },
-    {
-      "title": "Longshot Bid to Block Paramount-Warner Bros. Discovery Merger Filed to Supreme Court",
-      "url": "http://www.hollywoodreporter.com/business/business-news/bid-block-paramount-warner-bros-merger-supreme-court-1236722830/",
-      "source": "Hollywood Reporter",
-      "publishedAt": "2026-10-05T22:52:52Z",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/02/GettyImages-2261716704.jpg?w=1440&h=810&crop=1"
+      "title": "Christa Pike is conscious and speaking after Tennessee failed execution, her attorneys say",
+      "url": "https://apnews.com/article/christa-pike-tennessee-execution-85ea61961fc14ce01f78dbd9bdd728cb",
+      "source": "Associated Press",
+      "publishedAt": "2026-10-06T22:14:00Z",
+      "image": "https://dims.apnews.com/dims4/default/6a55927/2147483647/strip/true/crop/8640x5757+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F77%2F0a%2Ff423e4d70d1c6c5119bdd7b4827c%2F395b850101cb4eaa93c775f8945b3686"
     }
   ]
 }

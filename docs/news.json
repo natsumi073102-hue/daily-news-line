@@ -1,41 +1,48 @@
 {
-  "updatedAt": "2026-10-16T09:05:37.117239+09:00",
+  "updatedAt": "2026-10-17T09:10:04.513019+09:00",
   "domestic": [],
   "world": [
     {
-      "title": "Sexual assault reported at frat house near University of Chicago",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOHdjQnZQR0R6eTFfZHR5SFZTZUl4c05aN0pjQlZDY19qTDBWTm5jWk9ueW9zSU5EVF8wWnEtZWsyZWYxSmZIbVE1UHl2bkpodE5CdWFYVTdmU19OODdyUERnWHh3c3NsakpDNnF2WDdINEFWYnNKNEN6c2RoZlFldUhadE0?oc=5",
+      "title": "Live updates: 3 children among dead in Bend school shooting, OPB sources say",
+      "url": "https://www.opb.org/article/2026/10/15/bend-school-active-shooter/",
+      "source": "OPB News",
+      "publishedAt": "2026-10-15T23:53:21Z",
+      "image": "https://opb-opb-prod.cdn.arcpublishing.com/resizer/v2/E2WHWRXMB5CQVCERRLOHVBJSIU.jpg?auth=ad7b1626ae64fb170a323aea6c8a2f38ee5d7b37aaceae799e11463a0c5659d3&width=1200&height=675&smart=true"
+    },
+    {
+      "title": "Anna Faris Was “Hurt” By Chuck Lorre’s Comments About Her ‘Mom’ Exit: “Yikes”",
+      "url": "http://deadline.com/2026/10/anna-faris-responds-chuck-lorre-vindication-mom-exit-1237158905/",
+      "source": "Deadline",
+      "publishedAt": "2026-10-15T23:38:00Z",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/Anna-Faris-Chuck-Lorre.jpg?w=1024"
+    },
+    {
+      "title": "Feds investigate suspicious mailings sent to members of Congress and state election officials",
+      "url": "https://www.nbcnews.com/politics/2026-election/authorities-investigate-suspicious-mailings-congressional-offices-rcna603712",
+      "source": "NBC News",
+      "publishedAt": "2026-10-15T23:35:18Z",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261015-capitol-mn-1130-920980.jpg"
+    },
+    {
+      "title": "College Football Playoff nears agreement on 24-team expansion that could end title games",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVFpiRlFUckZ1THdHbXdMa2tBQWI2NXdLWjhwdXFhdS0tTmxlMVVmR1hjXy1XQXY5c2EtaG9LUl9mMmstaUdfY3BMN1plT0tjWjkwQ3ZCdllLTGtPVUpsb1pkTDFFbXcyS3F1ejB6YTdxR0dwRHFtU1EyeFBObjAyU2VNa3ZxaDQzR1B5TUx0dW0tUWNCNkJ3Tkln?oc=5",
       "source": "Google News",
-      "publishedAt": "2026-10-14T23:32:00Z",
+      "publishedAt": "2026-10-15T23:30:00Z",
       "image": null
     },
     {
-      "title": "Florida man arrested on murder charge in ex-fiancée's 2011 disappearance",
-      "url": "https://www.cbsnews.com/news/michelle-parker-fiancee-orlando-florida-arrest-murder-charge-2011-disappearance-peoples-court/",
-      "source": "CBS News",
-      "publishedAt": "2026-10-14T22:51:00Z",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/14/9e63754b-b47b-45b1-b255-ebb3e0acc9ef/thumbnail/1200x630/b9b49008fc5af5349e7248d54a61b756/arrest.jpg"
+      "title": "Trump lashes out at Republicans as Ken Paxton struggles in Texas",
+      "url": "https://www.politico.com/news/2026/10/15/trump-lashes-out-at-republicans-as-ken-paxtron-struggles-in-texas-01122111",
+      "source": "Politico",
+      "publishedAt": "2026-10-15T22:14:00Z",
+      "image": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F1a%2Fd1%2Faab04b514a34b75b54aaddbb6cb4%2Ftrump-34.jpg"
     },
     {
-      "title": "Iranian attacks sink two ships in Strait of Hormuz",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNVg0eWh4OTZ1NG5IR1M1ZWJJejUxUncyYVVWeHB3QTdHaHYzUnRDOHBpaFpEZldsb0RNZG5SNVZDMWJIVUV6U0JZRVhLSmdtWEZfSnpGSDlXWVU1UlRRSF9wT0JSbktPRTRWT2dkazNCSmJoWDBaUl9wZEI3bjVpLUNZS2ZDWW9IQk9oUndRNU1qYUpHclhnUzhVYVU1RE0?oc=5",
+      "title": "New York City Comptroller Defends Decision Not to Invest in Israeli Bonds",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ2N3OVRrMGk5ZldLM3V5TGc2SUpQNVJteVBPMndlc01iN2Vrdnk1RW5aZFFKQmdRei1WSHMzSVNGU2hlNEEwaHJ1ZklGbWRUTHpFQ2pzN1BfTGdDVUZRcmpVM2NOOUU0NWZ3QkRWY1VxY09BUzB5RGU3dFNWXzdKX2VXZE1sTG9WSTM4bVZCbmpiM0FMWWFveGFLaEVWOFF1NGxfdlF2RlhGeW9CU0JnQQ?oc=5",
       "source": "Google News",
-      "publishedAt": "2026-10-14T22:25:14Z",
+      "publishedAt": "2026-10-15T22:01:00Z",
       "image": null
-    },
-    {
-      "title": "Anthropic revenue jumps to $16.8bn in third quarter",
-      "url": "https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b?syn-25a6b1a6\\\\u003d1",
-      "source": "Financial Times",
-      "publishedAt": "2026-10-14T22:06:31Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6686186f-cb33-4f63-8ee3-4251f56fff52.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1"
-    },
-    {
-      "title": "Shohei Ohtani dropped to sixth in Dodgers' lineup against Brewers in NLCS Game 3",
-      "url": "https://www.espn.com/mlb/story/_/id/50184640/dodgers-shohei-ohtani-bat-sixth-nlcs-game-3-vs-brewers",
-      "source": "ESPN",
-      "publishedAt": "2026-10-14T21:46:00Z",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0909%2Fr1713521_1296x729_16%2D9.jpg"
     }
   ]
 }

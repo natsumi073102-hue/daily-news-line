@@ -1,48 +1,34 @@
 {
-  "updatedAt": "2026-10-22T09:26:32.808933+09:00",
+  "updatedAt": "2026-10-23T09:24:11.359388+09:00",
   "domestic": [],
   "world": [
     {
-      "title": "Ohio governor’s race in uproar over video featuring Democrat’s estranged mother",
-      "url": "https://www.washingtonpost.com/politics/2026/10/20/ohio-governors-race-uproar-over-video-featuring-democrats-estranged-mother/",
+      "title": "'Betrayed by my body': The taboo health issue women are talking about on social media",
+      "url": "https://www.bbc.com/news/articles/cwly3g0g371go",
+      "source": "BBC News",
+      "publishedAt": "2026-10-21T23:03:59Z",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e36e/live/20eafb00-c89c-11f1-b0a4-81e564f1cfaa.jpg"
+    },
+    {
+      "title": "Trump’s special envoy calls Vladimir Putin a ‘humanitarian’",
+      "url": "https://www.washingtonpost.com/world/2026/10/21/trumps-special-envoy-calls-vladimir-putin-humanitarian/",
       "source": "The Washington Post",
-      "publishedAt": "2026-10-21T00:41:17Z",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HFVAL6JFJLVWCRDZIIK2E32YW4_size-normalized.jpg&w=1440"
+      "publishedAt": "2026-10-21T22:42:41Z",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/IA2GAEFDCXFYY4IMSO2L4OHGNU.JPG&w=1440"
     },
     {
-      "title": "What to know about Jalen Hurts' condition after blood clots found in Eagles star's lungs, leg",
-      "url": "https://www.cbsnews.com/news/jalen-hurts-blood-clots-eagles-dvt/",
-      "source": "CBS News",
-      "publishedAt": "2026-10-21T00:27:36Z",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/20/8fcf8b27-8532-40ec-ab1b-b96179e9a6bc/thumbnail/1200x630/19021d239fb51df0f42164c525022878/gettyimages-2299178404.jpg"
+      "title": "New Mexico sues Epstein lawyer and accountant, accusing them of hiding his sex crimes",
+      "url": "https://www.bbc.com/news/articles/cqx287g8714lo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-21T22:20:22Z",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9c97/live/152c9c80-cd7c-11f1-a428-3f9d1bf6cc8b.jpg"
     },
     {
-      "title": "Christina Applegate reveals she was misdiagnosed with multiple sclerosis: \"Not happy at all\"",
-      "url": "https://www.cbsnews.com/news/christina-applegate-misdiagnosis-multiple-sclerosis/",
-      "source": "CBS News",
-      "publishedAt": "2026-10-20T23:32:26Z",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/20/9159f1df-aa85-441e-8f41-137e491c397a/thumbnail/1200x630/aa90f3c6aca182eda727eb8daef81ed0/gettyimages-1247521044.jpg"
-    },
-    {
-      "title": "Witkoff to present Putin with peace proposal after talks with Zelensky",
-      "url": "https://www.axios.com/2026/10/20/putin-witkoff-russia-ukraine-war",
-      "source": "Axios",
-      "publishedAt": "2026-10-20T23:08:19Z",
-      "image": "https://images.axios.com/fooWvvV7Mrxwv4aVriq0dUL4RSQ=/0x0:3435x1932/1366x768/2026/10/20/1792535020756.jpeg"
-    },
-    {
-      "title": "Hunter Schafer Reveals She Underwent Gender-Affirming Bottom Surgery",
-      "url": "http://www.hollywoodreporter.com/lifestyle/lifestyle-news/hunter-schafer-gender-affirming-bottom-surgery-1236736776/",
-      "source": "Hollywood Reporter",
-      "publishedAt": "2026-10-20T22:49:14Z",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/Hunter-Schafer-getty-H-2026.png?w=1296&h=730&crop=1"
-    },
-    {
-      "title": "Judge Trump called a ‘lunatic’ abruptly backs off demand after showdown with DOJ No. 3",
-      "url": "https://www.foxnews.com/politics/judge-trump-called-lunatic-abruptly-backs-off-demand-showdown-doj-3",
-      "source": "Fox News",
-      "publishedAt": "2026-10-20T22:08:05Z",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/03/trump_reyes.png"
+      "title": "U.S. troops and diplomats evacuating Middle East posts, sources say",
+      "url": "https://www.nbcnews.com/politics/national-security/us-troops-diplomats-evacuating-middle-east-posts-sources-say-rcna604867",
+      "source": "NBC News",
+      "publishedAt": "2026-10-21T21:59:15Z",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2017_02/1860211/170109-us-embassy-riyadh-mn-0900.jpg"
     }
   ]
 }

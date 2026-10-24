@@ -1,34 +1,41 @@
 {
-  "updatedAt": "2026-10-23T09:24:11.359388+09:00",
+  "updatedAt": "2026-10-24T09:17:02.617692+09:00",
   "domestic": [],
   "world": [
     {
-      "title": "'Betrayed by my body': The taboo health issue women are talking about on social media",
-      "url": "https://www.bbc.com/news/articles/cwly3g0g371go",
-      "source": "BBC News",
-      "publishedAt": "2026-10-21T23:03:59Z",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e36e/live/20eafb00-c89c-11f1-b0a4-81e564f1cfaa.jpg"
-    },
-    {
-      "title": "Trump’s special envoy calls Vladimir Putin a ‘humanitarian’",
-      "url": "https://www.washingtonpost.com/world/2026/10/21/trumps-special-envoy-calls-vladimir-putin-humanitarian/",
-      "source": "The Washington Post",
-      "publishedAt": "2026-10-21T22:42:41Z",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/IA2GAEFDCXFYY4IMSO2L4OHGNU.JPG&w=1440"
-    },
-    {
-      "title": "New Mexico sues Epstein lawyer and accountant, accusing them of hiding his sex crimes",
-      "url": "https://www.bbc.com/news/articles/cqx287g8714lo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-21T22:20:22Z",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9c97/live/152c9c80-cd7c-11f1-a428-3f9d1bf6cc8b.jpg"
-    },
-    {
-      "title": "U.S. troops and diplomats evacuating Middle East posts, sources say",
-      "url": "https://www.nbcnews.com/politics/national-security/us-troops-diplomats-evacuating-middle-east-posts-sources-say-rcna604867",
+      "title": "Supreme Court says New Hampshire student IDs can’t be used to vote in November",
+      "url": "https://www.nbcnews.com/politics/supreme-court/new-hampshire-student-ids-cannot-used-vote-november-midterm-elections-rcna604570",
       "source": "NBC News",
-      "publishedAt": "2026-10-21T21:59:15Z",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2017_02/1860211/170109-us-embassy-riyadh-mn-0900.jpg"
+      "publishedAt": "2026-10-22T22:05:00Z",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261020-elections-ch-1031-ca81ff.jpg"
+    },
+    {
+      "title": "Judge restricts DHS investigations into noncitizen voting, citing flawed data",
+      "url": "https://www.washingtonpost.com/politics/2026/10/22/judge-blocks-dhs-investigations-noncitizen-voting-citing-flawed-data/",
+      "source": "The Washington Post",
+      "publishedAt": "2026-10-22T21:19:52Z",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RBAAIUB5N2EV5MVNU64P2LNVRY_size-normalized.jpg&w=1440"
+    },
+    {
+      "title": "NYC passes bill to ban horse-drawn carriages, Central Park’s drivers fear for their future",
+      "url": "https://www.nbcnews.com/news/us-news/nyc-passes-bill-ban-horse-drawn-carriages-central-parks-drivers-fear-f-rcna605105",
+      "source": "NBC News",
+      "publishedAt": "2026-10-22T21:13:37Z",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261022-New-York-horse-carriage-ban-ew-505p-408bf8.jpg"
+    },
+    {
+      "title": "You Only Audition Twice: Watch Henry Cavill, James Brolin, Sam Neill and Others Screen-Test for James Bond",
+      "url": "http://www.hollywoodreporter.com/movies/movie-features/james-bond-auditions-watch-screen-tests-1236738531/",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2026-10-22T20:57:48Z",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2020/01/b25_25594_r_rgb_copy.jpg?w=1296&h=730&crop=1"
+    },
+    {
+      "title": "United States Grand Prix: Kimi Antonelli intends to 'have fun' as he stands on brink of title",
+      "url": "https://www.bbc.com/sport/formula1/articles/cjr4y3y9zy2zo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-22T20:55:40Z",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/795b/live/b07ecd20-ce58-11f1-a166-e30097724580.jpg"
     }
   ]
 }

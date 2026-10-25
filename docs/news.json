@@ -1,41 +1,41 @@
 {
-  "updatedAt": "2026-10-24T09:17:02.617692+09:00",
+  "updatedAt": "2026-10-25T09:00:52.814225+09:00",
   "domestic": [],
   "world": [
     {
-      "title": "Supreme Court says New Hampshire student IDs can’t be used to vote in November",
-      "url": "https://www.nbcnews.com/politics/supreme-court/new-hampshire-student-ids-cannot-used-vote-november-midterm-elections-rcna604570",
-      "source": "NBC News",
-      "publishedAt": "2026-10-22T22:05:00Z",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261020-elections-ch-1031-ca81ff.jpg"
+      "title": "Stock Market Today: Dow Opens Lower, Oil Prices Hit 5-Month High — Live Updates",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-23-2026",
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-10-23T22:11:00Z",
+      "image": null
     },
     {
-      "title": "Judge restricts DHS investigations into noncitizen voting, citing flawed data",
-      "url": "https://www.washingtonpost.com/politics/2026/10/22/judge-blocks-dhs-investigations-noncitizen-voting-citing-flawed-data/",
-      "source": "The Washington Post",
-      "publishedAt": "2026-10-22T21:19:52Z",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RBAAIUB5N2EV5MVNU64P2LNVRY_size-normalized.jpg&w=1440"
+      "title": "Xbox’s first chief operating officer is out after just a few months",
+      "url": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure",
+      "source": "The Verge",
+      "publishedAt": "2026-10-23T21:39:26Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485116/STK048_XBOX2__B.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
     },
     {
-      "title": "NYC passes bill to ban horse-drawn carriages, Central Park’s drivers fear for their future",
-      "url": "https://www.nbcnews.com/news/us-news/nyc-passes-bill-ban-horse-drawn-carriages-central-parks-drivers-fear-f-rcna605105",
-      "source": "NBC News",
-      "publishedAt": "2026-10-22T21:13:37Z",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261022-New-York-horse-carriage-ban-ew-505p-408bf8.jpg"
+      "title": "British PM pushes Trump on Ukraine’s Starlink access",
+      "url": "https://www.politico.com/news/2026/10/23/burnham-trump-ukraine-starlink-access-01134191",
+      "source": "Politico",
+      "publishedAt": "2026-10-23T21:00:00Z",
+      "image": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fce%2F15%2F92e0045f4db2a2674c814f511d62%2Ftrump-67255.jpg"
     },
     {
-      "title": "You Only Audition Twice: Watch Henry Cavill, James Brolin, Sam Neill and Others Screen-Test for James Bond",
-      "url": "http://www.hollywoodreporter.com/movies/movie-features/james-bond-auditions-watch-screen-tests-1236738531/",
-      "source": "Hollywood Reporter",
-      "publishedAt": "2026-10-22T20:57:48Z",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2020/01/b25_25594_r_rgb_copy.jpg?w=1296&h=730&crop=1"
+      "title": "‘The most complicated launch campaign ever’: NASA lays out mad dash to test lunar landers",
+      "url": "https://www.cnn.com/2026/10/23/science/nasa-artemis-update-spacex-starship-blue-origin",
+      "source": "CNN",
+      "publishedAt": "2026-10-23T20:50:33Z",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/bluemoon-nasa-20260609173103324.jpg?c=16x9&q=w_800,c_fill"
     },
     {
-      "title": "United States Grand Prix: Kimi Antonelli intends to 'have fun' as he stands on brink of title",
-      "url": "https://www.bbc.com/sport/formula1/articles/cjr4y3y9zy2zo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-22T20:55:40Z",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/795b/live/b07ecd20-ce58-11f1-a166-e30097724580.jpg"
+      "title": "Ebola: Kenya records second death as 65-year-old woman succumbs",
+      "url": "https://nation.africa/kenya/health/ebola-kenya-records-second-death-as-65-year-old-woman-succumbs-5643798",
+      "source": "Nation.africa",
+      "publishedAt": "2026-10-23T20:33:40Z",
+      "image": "https://nation.africa/resource/image/4007476/landscape_ratio3x2/1200/800/9d0d93982a458e6d6c8716c08ca911ef/EU/pic-back.jpg"
     }
   ]
 }

@@ -1,41 +1,27 @@
 {
-  "updatedAt": "2026-10-25T09:00:52.814225+09:00",
+  "updatedAt": "2026-10-26T08:50:32.300252+09:00",
   "domestic": [],
   "world": [
     {
-      "title": "Stock Market Today: Dow Opens Lower, Oil Prices Hit 5-Month High — Live Updates",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-23-2026",
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-10-23T22:11:00Z",
-      "image": null
+      "title": "Iran in ‘advanced stages’ of plots to kill U.S. officials abroad, memo warns",
+      "url": "https://www.washingtonpost.com/world/2026/10/24/iran-advanced-stages-plots-kill-us-officials-abroad-memo-warns/",
+      "source": "The Washington Post",
+      "publishedAt": "2026-10-24T23:33:24Z",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IY3RJGF76UI7DALQNAKBTLY4ZE_size-normalized.jpg&w=1440"
     },
     {
-      "title": "Xbox’s first chief operating officer is out after just a few months",
-      "url": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure",
-      "source": "The Verge",
-      "publishedAt": "2026-10-23T21:39:26Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485116/STK048_XBOX2__B.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+      "title": "UFC 333: Alexander Volkanovski stops Movsar Evloev for record with ninth featherweight title win",
+      "url": "https://www.bbc.com/sport/mixed-martial-arts/articles/ckvg7j2p471lo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-24T22:30:45Z",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7561/live/ee1e1ac0-cffa-11f1-b7cc-6101465c4e60.jpg"
     },
     {
-      "title": "British PM pushes Trump on Ukraine’s Starlink access",
-      "url": "https://www.politico.com/news/2026/10/23/burnham-trump-ukraine-starlink-access-01134191",
-      "source": "Politico",
-      "publishedAt": "2026-10-23T21:00:00Z",
-      "image": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fce%2F15%2F92e0045f4db2a2674c814f511d62%2Ftrump-67255.jpg"
-    },
-    {
-      "title": "‘The most complicated launch campaign ever’: NASA lays out mad dash to test lunar landers",
-      "url": "https://www.cnn.com/2026/10/23/science/nasa-artemis-update-spacex-starship-blue-origin",
-      "source": "CNN",
-      "publishedAt": "2026-10-23T20:50:33Z",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/bluemoon-nasa-20260609173103324.jpg?c=16x9&q=w_800,c_fill"
-    },
-    {
-      "title": "Ebola: Kenya records second death as 65-year-old woman succumbs",
-      "url": "https://nation.africa/kenya/health/ebola-kenya-records-second-death-as-65-year-old-woman-succumbs-5643798",
-      "source": "Nation.africa",
-      "publishedAt": "2026-10-23T20:33:40Z",
-      "image": "https://nation.africa/resource/image/4007476/landscape_ratio3x2/1200/800/9d0d93982a458e6d6c8716c08ca911ef/EU/pic-back.jpg"
+      "title": "Indiana needs overtime to get first win at Michigan football since 1967",
+      "url": "https://www.indystar.com/story/sports/college/indiana/2026/10/24/indiana-football-score-michigan-game-live-radio-what-channel-fox-indiana-schedule-stats-um-football--live/92414362007/",
+      "source": "The Indianapolis Star",
+      "publishedAt": "2026-10-24T21:48:00Z",
+      "image": "https://www.indystar.com/gcdn/authoring/authoring-images/2026/10/24/PDTF/92417556007-102426-umind-1-h-044.jpg?crop=2715,1527,x0,y0&width=2715&height=1527&format=pjpg&auto=webp"
     }
   ]
 }

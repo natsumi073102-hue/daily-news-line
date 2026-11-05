@@ -1,41 +1,48 @@
 {
-  "updatedAt": "2026-11-04T10:54:49.086586+09:00",
+  "updatedAt": "2026-11-05T10:59:41.407523+09:00",
   "domestic": [],
   "world": [
     {
-      "title": "2026 election live updates as Supreme Court denies Trump bid to separate California ballots, candidates make final pitches",
-      "url": "https://www.cbsnews.com/live-updates/2026-elections-monday-november-2/",
-      "source": "CBS News",
-      "publishedAt": "2026-11-03T00:15:00Z",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/02/8aaa6aad-0a2b-4238-b535-be857fdfc569/thumbnail/1200x630g8/2e05daf6a44ceb4a982e793c91ce05a6/gettyimages-2302749137.jpg"
+      "title": "S&P 500 futures gain slightly on AMD's strong earnings as traders await election results: Live updates",
+      "url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html",
+      "source": "CNBC",
+      "publishedAt": "2026-11-04T02:41:00Z",
+      "image": "https://image.cnbcfm.com/api/v1/image/108504897-17936387822026-11-02t154439z_2054107051_rc2pfoape9u2_rtrmadp_0_usa-stocks.jpeg?v=1793638802&w=1920&h=1080"
     },
     {
-      "title": "Child in New York dies after contracting measles, governor says",
-      "url": "https://www.cnn.com/2026/11/02/health/new-york-measles-death",
-      "source": "CNN",
-      "publishedAt": "2026-11-02T23:58:48Z",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-2026-09-18t151017z-556781221-rc20ddaz56pe-rtrmadp-3-health-usa-measles.jpg?c=16x9&q=w_800,c_fill"
+      "title": "It's Election Day. Control of Congress is on the line, and what else you need to know",
+      "url": "https://www.npr.org/2026/11/03/nx-s1-5992757/election-day-live-updates-key-races",
+      "source": "NPR",
+      "publishedAt": "2026-11-04T02:17:40Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5638x3171+0+91/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F44%2Fb4%2Ff27716cf4b57a41cfdba35d0a6b2%2Fgettyimages-2302963032.jpg"
     },
     {
-      "title": "Thousands of blood pressure medication bottles recalled nationwide after pills fail quality test",
-      "url": "https://www.foxbusiness.com/lifestyle/thousands-blood-pressure-medication-bottles-recalled-nationwide-pills-fail-quality-test",
-      "source": "Fox Business",
-      "publishedAt": "2026-11-02T23:25:00Z",
-      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/03/0/0/blood-pressure-measurement.jpg?ve=1&tl=1"
+      "title": "Republican Byron Donalds wins governor’s race in Florida",
+      "url": "https://www.npr.org/2026/11/03/g-s1-151260/florida-governor-donalds-jolly",
+      "source": "NPR",
+      "publishedAt": "2026-11-04T02:10:59Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8640x4860+0+450/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F35%2Fa4%2Feea35ee94146b4091d4e7794a962%2Fap26304067090509.jpg"
     },
     {
-      "title": "Frantic Binance Hackers Created Windfall for Fast Crypto Traders",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-02/frantic-binance-hackers-created-windfall-for-fast-crypto-traders",
-      "source": "Bloomberg",
-      "publishedAt": "2026-11-02T23:03:35Z",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6ejuukIWVSo/v1/1200x800.jpg"
-    },
-    {
-      "title": "NFL trade deadline live updates: Latest news, rumors after Week 8",
-      "url": "https://www.usatoday.com/story/sports/nfl/2026/11/02/nfl-trade-rumors-news-deadline-updates--live/92559056007/",
+      "title": "Miranda Kerr reveals why she refused to return for Victoria's Secret show",
+      "url": "https://www.usatoday.com/story/life/fashion/2026/11/03/miranda-kerr-turned-down-victorias-secret-fashion-show/92596758007/",
       "source": "USA Today",
-      "publishedAt": "2026-11-02T22:51:00Z",
-      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/02/USAT/92559232007-20261101-t-175901-z-831475133-mt-1-usatoday-30247136-rtrmadp-3-indianapoliscoltsrunningbackjonathantayloragainstthe.JPG?crop=3906,2197,x2,y33&width=3200&height=1800&format=pjpg&auto=webp"
+      "publishedAt": "2026-11-04T02:10:00Z",
+      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/04/USAT/92597750007-miranda-kerr.jpg?crop=4995,2808,x5,y216&width=3200&height=1799&format=pjpg&auto=webp"
+    },
+    {
+      "title": "Keisha Lance Bottoms wins the Georgia governor’s race, flipping the office for Democrats",
+      "url": "https://www.nbcnews.com/politics/2026-election/keisha-lance-bottoms-georgia-governor-win-democrats-flip-jackson-rcna603348",
+      "source": "NBC News",
+      "publishedAt": "2026-11-04T02:04:00Z",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261020-keisha-bottoms-Georgia-governor-midterms-sjr-aa2447.jpg"
+    },
+    {
+      "title": "Republican Strategists Start to Panic",
+      "url": "https://www.wsj.com/livecoverage/midterm-election-results-2026-latest-updates/card/republican-strategists-start-to-panic-OfsmUvuhWc8V7QGSLDLm",
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-11-04T01:57:04Z",
+      "image": null
     }
   ]
 }

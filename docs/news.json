@@ -1,34 +1,48 @@
 {
-  "updatedAt": "2026-11-10T12:57:44.802319+09:00",
+  "updatedAt": "2026-11-11T10:42:43.167860+09:00",
   "domestic": [],
   "world": [
     {
-      "title": "Jensen Huang Apologized to Nvidia for His Infidelity. His Kids Are On Staff.",
-      "url": "https://www.wsj.com/tech/ai/jensen-huang-apologized-to-nvidia-for-his-infidelity-his-kids-are-on-staff-190f3176",
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-11-09T03:38:00Z",
-      "image": null
+      "title": "Bills vs. Vikings live updates, inactives, where to watch: MVP favorite Josh Allen, Buffalo face Carson Wentz with Kyler Murray injured",
+      "url": "https://sports.yahoo.com/nfl/live/bills-vikings-score-live-updates-inactives-highlights-stats-where-to-watch-week-9-monday-night-football-234804735.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-11-10T02:19:00Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/dd05c049d52aabcbbff5acf917abf5dd3a7e30f0534dfd1227d8049863b45480/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F51a137f1-b4be-4e05-9faf-9c1c32cec73a"
     },
     {
-      "title": "Passenger trains crash in Egypt, killing 7 and injuring 125, authorities say",
-      "url": "https://www.washingtonpost.com/world/2026/11/08/passenger-trains-crash-egypt-killing-7-injuring-125-authorities-say/",
+      "title": "Iran hacked hundreds of French supermarket refrigerators, France says",
+      "url": "https://www.washingtonpost.com/world/2026/11/09/iran-hacked-hundreds-french-supermarket-refrigerators-france-says/",
       "source": "The Washington Post",
-      "publishedAt": "2026-11-09T02:32:28Z",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fwapo%2FPAN5JG4WNDGLCSD3COPD6F2PVY.JPG&w=1200"
+      "publishedAt": "2026-11-10T02:14:38Z",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/57SG465V4F5HRDC7VHYEAMD2RU.JPG&w=1440"
     },
     {
-      "title": "Taylor Swift Spotted With Karlie Kloss At Chiefs Game",
-      "url": "http://deadline.com/2026/11/taylor-swift-karlie-kloss-chiefs-game-1237216947/",
-      "source": "Deadline",
-      "publishedAt": "2026-11-09T01:42:00Z",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/swift-kc.png?w=1024"
+      "title": "Hegseth impeachment effort begins in House, focused on Iran war",
+      "url": "https://www.washingtonpost.com/national-security/2026/11/09/hegseth-impeachment-effort-begins-house-focused-iran-war/",
+      "source": "The Washington Post",
+      "publishedAt": "2026-11-10T01:51:37Z",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3D5OJDNADLOEAHROR7QTPM6ZRA_size-normalized.jpg&w=1440"
     },
     {
-      "title": "Dallas Cowboys vs. Indianapolis Colts Live Score and Stats",
-      "url": "https://www.cbssports.com/nfl/gametracker/recap/NFL_20261108_DAL@IND/",
-      "source": "CBS Sports",
-      "publishedAt": "2026-11-09T01:27:19Z",
-      "image": "https://sportsfly.cbsistatic.com/fly-887/bundles/sportsmediacss/images/fantasy/default-article-image-large.png"
+      "title": "David Ellison Is Very Bullish On AI’s Creative Potential",
+      "url": "http://www.hollywoodreporter.com/business/business-news/david-ellison-bullish-on-ai-creative-potential-1236751250/",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2026-11-10T01:15:33Z",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/GettyImages-2271646645.jpg?w=1440&h=810&crop=1"
+    },
+    {
+      "title": "Tigers’ infielder Kevin McGonigle wins AL Jackie Robinson Rookie of the Year",
+      "url": "https://bbwaa.com/26-al-roy/",
+      "source": "Bbwaa.com",
+      "publishedAt": "2026-11-10T00:56:15Z",
+      "image": "https://bbwaa.com/wp-content/uploads/2026/11/mcgonigle26.jpeg"
+    },
+    {
+      "title": "FDA tells GLP-1 makers to warn of potential vision loss side effect",
+      "url": "https://www.washingtonpost.com/health/2026/11/09/fda-tells-glp-1-makers-warn-potential-vision-loss-side-effect/",
+      "source": "The Washington Post",
+      "publishedAt": "2026-11-10T00:19:45Z",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/6FYIFDG4ANBRTJ3RVV47ABPQGQ.jpg&w=1440"
     }
   ]
 }

@@ -1,34 +1,41 @@
 {
-  "updatedAt": "2026-11-17T13:19:39.924637+09:00",
+  "updatedAt": "2026-11-18T12:19:48.582902+09:00",
   "domestic": [],
   "world": [
     {
-      "title": "Steelers vs. Bengals live updates, inactives, where to watch: Joe Burrow, Cincinnati host Aaron Rodgers, AFC North rival Pittsburgh on 'Sunday Night Football'",
-      "url": "https://sports.yahoo.com/nfl/live/steelers-bengals-score-live-updates-inactives-highlights-stats-where-to-watch--sunday-night-football-week-10-234406329.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-11-16T01:04:00Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/db0bfc43b829ed9a5c86d97658a23c7de45b82b6051f3c8a73fa53669242cb75/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F388a12b6-b113-40e1-baaf-5c0d36c040a0"
+      "title": "Senate Democrats reject quick exit from Schumer vs. Van Hollen fight",
+      "url": "https://www.politico.com/news/2026/11/16/schumer-van-hollen-election-timing-01169090",
+      "source": "Politico",
+      "publishedAt": "2026-11-17T02:46:00Z",
+      "image": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Ffa%2F57%2Fef37af06448fb1bbfe590ba2b630%2Fu-s-congress-95357.jpg"
     },
     {
-      "title": "2027 WNBA Draft order: Toronto Tempo win lottery, chance to pick JuJu Watkins at No. 1",
-      "url": "https://www.cbssports.com/wnba/news/2027-wnba-draft-order-toronto-tempo-win-lottery-chance-to-pick-juju-watkins-at-no-1/",
-      "source": "CBS Sports",
-      "publishedAt": "2026-11-16T01:00:00Z",
-      "image": "https://sportshub.cbsistatic.com/i/r/2026/11/16/0b8a5cfd-1fba-4596-bea6-903d370a0a72/thumbnail/1200x675/4cb81ab3b00466d456678d9702d412f4/juju-watkins-draft-lottery-wnba.png"
+      "title": "Trump says Alaska voters chose the wrong Dan Sullivan. What does the data show?",
+      "url": "https://www.bbc.com/news/articles/cxnv4jlr269eo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-17T02:38:08Z",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8eff/live/0fbc83f0-e11d-11f1-93e1-3b657b665bcf.jpg"
     },
     {
-      "title": "Preliminary investigation points to steering failure in tanker collision with river cruise ship",
-      "url": "https://www.wdsu.com/article/mississippi-river-boat-crash-new-orleans-update/74433300",
-      "source": "WDSU New Orleans",
-      "publishedAt": "2026-11-16T00:44:00Z",
-      "image": "https://kubrick.htvapps.com/htv-prod/images/b7d61f77-c3c3-4fbc-96ec-cab4b1b82065.jpg?crop=1.00xw%3A0.749xh%3B0%2C0&resize=1200%3A*"
+      "title": "Ray Tintori, Music Video Director and Filmmaker, Dies at 43",
+      "url": "https://variety.com/2026/film/news/ray-tintori-dead-filmmaker-beasts-southern-wild-1236949816/",
+      "source": "Variety",
+      "publishedAt": "2026-11-17T01:27:00Z",
+      "image": "https://variety.com/wp-content/uploads/2026/11/GettyImages-111617327.jpg?crop=0px%2C53px%2C2198px%2C1236px&resize=1000%2C563"
     },
     {
-      "title": "Duffy blames Congress, prior administrations for air travel halt, chaos",
-      "url": "https://www.washingtonpost.com/transportation/2026/11/15/sean-duffy-blames-congress-prior-administrations-ground-stop-chaos/",
+      "title": "U.S. loses measles-elimination status, erasing decades of progress",
+      "url": "https://www.nbcnews.com/health/health-news/measles-no-longer-eliminated-us-rcna607920",
+      "source": "NBC News",
+      "publishedAt": "2026-11-17T00:41:00Z",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261116-paho-vsb-2205-a49d08.jpg"
+    },
+    {
+      "title": "CDC declined to alert risk of measles in pregnancy. A journal released the data.",
+      "url": "https://www.washingtonpost.com/health/2026/11/16/cdc-declined-alert-risk-measles-pregnancy-journal-released-data/",
       "source": "The Washington Post",
-      "publishedAt": "2026-11-16T00:38:52Z",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DK3TNSHHIRHI6WF254O4CKDQB4_size-normalized.jpg&w=1440"
+      "publishedAt": "2026-11-17T00:38:17Z",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/USJDSRPSEC5ZVDH6QNIQYTAX54_size-normalized.jpg&w=1440"
     }
   ]
 }

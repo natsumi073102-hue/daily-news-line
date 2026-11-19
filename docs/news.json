@@ -1,41 +1,41 @@
 {
-  "updatedAt": "2026-11-18T12:19:48.582902+09:00",
+  "updatedAt": "2026-11-19T11:56:19.744662+09:00",
   "domestic": [],
   "world": [
     {
-      "title": "Senate Democrats reject quick exit from Schumer vs. Van Hollen fight",
-      "url": "https://www.politico.com/news/2026/11/16/schumer-van-hollen-election-timing-01169090",
-      "source": "Politico",
-      "publishedAt": "2026-11-17T02:46:00Z",
-      "image": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Ffa%2F57%2Fef37af06448fb1bbfe590ba2b630%2Fu-s-congress-95357.jpg"
+      "title": "Classified communications network at the National Security Agency goes down, defense official says",
+      "url": "https://apnews.com/article/nsa-computer-network-down-22dc6be1bf1d1f5f86a7167f016e9526",
+      "source": "Associated Press",
+      "publishedAt": "2026-11-18T01:42:00Z",
+      "image": "https://dims.apnews.com/dims4/default/a2ef926/2147483647/strip/true/crop/4848x3180+0+0/resize/1200x787!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F84%2F17%2F5786adcca75bcaa4f235a51ded1f%2Fdb06513fcb644753b5e939b19450c74d"
     },
     {
-      "title": "Trump says Alaska voters chose the wrong Dan Sullivan. What does the data show?",
-      "url": "https://www.bbc.com/news/articles/cxnv4jlr269eo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-17T02:38:08Z",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8eff/live/0fbc83f0-e11d-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "title": "Ray Tintori, Music Video Director and Filmmaker, Dies at 43",
-      "url": "https://variety.com/2026/film/news/ray-tintori-dead-filmmaker-beasts-southern-wild-1236949816/",
-      "source": "Variety",
-      "publishedAt": "2026-11-17T01:27:00Z",
-      "image": "https://variety.com/wp-content/uploads/2026/11/GettyImages-111617327.jpg?crop=0px%2C53px%2C2198px%2C1236px&resize=1000%2C563"
-    },
-    {
-      "title": "U.S. loses measles-elimination status, erasing decades of progress",
-      "url": "https://www.nbcnews.com/health/health-news/measles-no-longer-eliminated-us-rcna607920",
+      "title": "White House drops Heidi Overton’s FDA nomination after Republicans raise concerns",
+      "url": "https://www.nbcnews.com/health/health-care/white-house-drops-dr-heidi-overton-fda-nomination-commissioner-rcna609883",
       "source": "NBC News",
-      "publishedAt": "2026-11-17T00:41:00Z",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261116-paho-vsb-2205-a49d08.jpg"
+      "publishedAt": "2026-11-18T00:44:00Z",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261117-heidi-overton-sjr-1622-44d9ef.jpg"
     },
     {
-      "title": "CDC declined to alert risk of measles in pregnancy. A journal released the data.",
-      "url": "https://www.washingtonpost.com/health/2026/11/16/cdc-declined-alert-risk-measles-pregnancy-journal-released-data/",
-      "source": "The Washington Post",
-      "publishedAt": "2026-11-17T00:38:17Z",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/USJDSRPSEC5ZVDH6QNIQYTAX54_size-normalized.jpg&w=1440"
+      "title": "The EU that Burnham is eyeing up is very different to the one Britain left",
+      "url": "https://www.bbc.com/news/articles/cq4gn3109pzgo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-18T00:39:06Z",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0152/live/8197ef80-e282-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "title": "Nvidia rejects Jensen Huang’s offer to return as CEO despite pressure from Silicon Valley",
+      "url": "https://apnews.com/article/nvidia-jensen-huang-china-national-security-chips-3026bcbe04ab57b844884382e583422a",
+      "source": "Associated Press",
+      "publishedAt": "2026-11-18T00:07:00Z",
+      "image": "https://dims.apnews.com/dims4/default/49c56a0/2147483647/strip/true/crop/2163x1442+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F74%2F13%2F156c164ab1d0494a394944d3b6b5%2F727e5755a2a34fe79c411b1532ac8688"
+    },
+    {
+      "title": "Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain",
+      "url": "https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-11-17T23:41:52Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afcc965-1794951525.jpg?resize=1200%2C630"
     }
   ]
 }

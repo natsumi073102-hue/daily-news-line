@@ -1,48 +1,48 @@
 {
-  "updatedAt": "2026-11-21T11:58:53.295367+09:00",
+  "updatedAt": "2026-11-22T10:54:47.442595+09:00",
   "domestic": [],
   "world": [
     {
-      "title": "Israeli Spy Chief Pressed for Renewed Iran Strikes During U.S. Visit",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR2poV3JYSVEtZHRZTmlXWXNpcUR6VEVZUnZEY01xeTB0WlhhMUVvTngyM1YwMHRieTY0R0lnMjhsWEJwa2lsY1RvNkluUXlKQ0dlZXlwR2VSdV9OSGE0RVZsNUJSTkRheno5NGJnbG1TRk9waG1CMFhCV3FadzgtbmlsQzAwd0dfZHRRMkZMWkpXcmVmMG9neVhtZUxkMUlka2tVdTdNbjRhcm5TZmY2dWw4SUs?oc=5",
+      "title": "Mamdani proposes five-year extension to shutter notorious Rikers Island prison",
+      "url": "https://www.washingtonpost.com/nation/2026/11/20/mamdani-proposes-five-year-extension-shutter-notorious-rikers-island-prison/",
+      "source": "The Washington Post",
+      "publishedAt": "2026-11-21T00:02:12Z",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/WONFRMXEZEI7DKM6WPRYAXDLRM.jpg&w=1440"
+    },
+    {
+      "title": "California man found guilty of starting deadly and devastating Pacific Palisades fire",
+      "url": "https://www.nbcnews.com/news/us-news/pacific-palisades-fire-retrial-jonathan-rinderknecht-rcna610336",
+      "source": "NBC News",
+      "publishedAt": "2026-11-20T23:23:04Z",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261119-pacific-palisades-vsb-1934-56c4e2.jpg"
+    },
+    {
+      "title": "Iraqi security forces deploy in Iran-backed militia stronghold",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ2RLdGYxc2lXdVVnQmx3bnBCbGtQRy1vOTZxeVROMGRIVHBkNnhtUFVaZTlScG93YzA5QUdkRlhld3dlUE0yNnNBTzRhTVA0S0ZRMzhUVTFhTHVUWEdscXA2NV9rVmhrWmtTS19FTFVidTBrX21hcGpPb3NkXzZqclMyYWlqU25vOXJvdFZ5YTFBX2xGd1RuWEx2VWczRnFaSTNyRHNDelpEZHVFSG9MSFl3?oc=5",
       "source": "Google News",
-      "publishedAt": "2026-11-19T23:37:04Z",
+      "publishedAt": "2026-11-20T23:08:04Z",
       "image": null
     },
     {
-      "title": "Trump gives posthumous pardon to Pete Rose, all-time MLB hits leader",
-      "url": "https://www.nbcnews.com/politics/donald-trump/posthumously-pardons-pete-rose-mlb-hit-leader-betting-baseball-rcna610308",
-      "source": "NBC News",
-      "publishedAt": "2026-11-19T22:55:53Z",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-03/250301-Pete-Rose-ch-1016-5d060b.jpg"
+      "title": "Treasury secretary says no further restrictions are needed for Nvidia chip exports to China",
+      "url": "https://apnews.com/article/nvidia-chip-export-restrictions-china-bessent-lutnick-88142455395552afe74caec3399a648b",
+      "source": "Associated Press",
+      "publishedAt": "2026-11-20T22:36:00Z",
+      "image": "https://dims.apnews.com/dims4/default/6e34ff9/2147483647/strip/true/crop/5284x3522+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F56%2F39%2F410ff3935a44fa385a34acdce26c%2F8f90c2909cb74ed09c09af1ba74c2c3a"
     },
     {
-      "title": "U.S. Army to detonate unstable explosives in Iowa Friday, potentially sending toxic lead dust into NW Illinois",
-      "url": "https://www.cbsnews.com/chicago/news/army-lead-azide-detonation-iowa-toxic-dust-plume/",
-      "source": "CBS News",
-      "publishedAt": "2026-11-19T22:55:43Z",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/19/056d7375-0455-4cb1-989b-311ac3bb78ef/thumbnail/1200x630/4d90fe6067da1407b95de2b1ca8770f4/iowa-army-lead-detonation-26322823699168.jpg"
+      "title": "Russian missiles land in Poland, as Europe held military drills nearby. NATO calls it a violation",
+      "url": "https://apnews.com/article/ukraine-russia-war-kyiv-attacks-putin-crimea-433e18f00cbd37a2a9da94e60fce0e07",
+      "source": "Associated Press",
+      "publishedAt": "2026-11-20T22:15:00Z",
+      "image": "https://dims.apnews.com/dims4/default/6990b16/2147483647/strip/true/crop/3000x2000+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F95%2F34%2F5a17fffe8cb7307fdea484a6d71f%2Fe07d084301c4410bb5e0373892ea333f"
     },
     {
-      "title": "California attorney general issues Nvidia subpoena in probe of China chip diversion",
-      "url": "https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html",
-      "source": "CNBC",
-      "publishedAt": "2026-11-19T22:49:04Z",
-      "image": "https://image.cnbcfm.com/api/v1/image/108352165-1787237664975-108352165-1787236932205-gettyimages-2290512238-META_TRIAL.jpeg?v=1787237713&w=1920&h=1080"
-    },
-    {
-      "title": "MacBook Pro Black Friday Deals Are Here: Get Up to $250 Off M6 and PROLED XDR",
-      "url": "https://www.macrumors.com/2026/11/19/macbook-pro-black-friday-deals-3/",
-      "source": "MacRumors",
-      "publishedAt": "2026-11-19T22:45:00Z",
-      "image": "https://images.macrumors.com/t/qD1p6XW3B4fOTXiUUHJLq-F33gs=/2500x/article-new/2026/11/macbook-pros-black-friday.jpeg"
-    },
-    {
-      "title": "Apple Is Working on AI Agent for Device Control, Apps, Browsing and Coding",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-19/apple-is-working-on-ai-agent-for-device-control-apps-browsing-and-coding",
-      "source": "Bloomberg",
-      "publishedAt": "2026-11-19T21:44:56Z",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBYr4yPkYRWM/v1/1200x800.jpg"
+      "title": "Colts officially place Daniel Jones on waivers",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-officially-place-daniel-jones-on-waivers",
+      "source": "NBCSports.com",
+      "publishedAt": "2026-11-20T22:02:48Z",
+      "image": "https://nbcsports.brightspotcdn.com/dims4/default/37e39e3/2147483647/strip/true/crop/4729x2660+0+246/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc6%2F45%2Fb248521348b096a6ad8702bec9b6%2F2305397973.jpg"
     }
   ]
 }

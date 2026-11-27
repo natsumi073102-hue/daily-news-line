@@ -1,41 +1,48 @@
 {
-  "updatedAt": "2026-11-26T12:57:40.057738+09:00",
+  "updatedAt": "2026-11-27T12:56:21.713132+09:00",
   "domestic": [],
   "world": [
     {
-      "title": "‘Dancing With the Stars’ Season 35 Couples Perform Their Last Dances as a Winner Is Crowned in the Finale: See the Scores, Who Won (Updating Live)",
-      "url": "http://www.hollywoodreporter.com/tv/tv-news/dwts-season-35-finale-winner-week-11-recap-scores-freestyle-1236762506/",
-      "source": "Hollywood Reporter",
-      "publishedAt": "2026-11-25T03:56:15Z",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/DWTS-Season-35-Finale-ABC-H-2026.jpg?w=1296&h=730&crop=1"
+      "title": "Andy Taylor, versatile guitarist for Duran Duran, dies at 65",
+      "url": "https://www.washingtonpost.com/entertainment/music/2026/11/25/andy-taylor-versatile-guitarist-duran-duran-dies-65/",
+      "source": "The Washington Post",
+      "publishedAt": "2026-11-26T03:16:12Z",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/QVDDFCAHWQ6SEWYQ7GZFYGWRL4.jpg&w=1440"
     },
     {
-      "title": "Man plunges to his death during condo showing at celebrity-studded West Hollywood tower",
-      "url": "https://nypost.com/2026/11/24/us-news/horrifying-death-during-condo-showing-at-celebrity-studded-west-hollywood-tower/",
-      "source": "New York Post",
-      "publishedAt": "2026-11-25T02:23:00Z",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/11/149977302.jpg?quality=75&strip=all&w=1200"
-    },
-    {
-      "title": "Kilmar Ábrego García leaving US for Spain, bringing deportation battle to an end",
-      "url": "https://www.bbc.com/news/articles/c6808pyy5dl9o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-25T01:51:19Z",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3c4a/live/dcbcfdf0-e85a-11f1-9b85-e50d1e9de678.jpg"
-    },
-    {
-      "title": "Yemen’s Houthis Take Second Swipe at Tallest Tower in Saudi Capital",
-      "url": "https://www.wsj.com/world/middle-east/yemens-houthis-take-second-swipe-at-tallest-tower-in-saudi-capital-11cc288c",
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-11-25T01:49:44Z",
+      "title": "UK government set to publish new treaties agreed with EU",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJZ2lsaWo2Y2dKTElJbm9sTGpQS1FrRHlpaEZkOVJLU0hxNVRTZ0JRZU9tM1ZaYlVPZUNKcjEySlBINEVQaWp4T1FqeXUzcVA0VkQ4RmhIM2ZReWs?oc=5",
+      "source": "Google News",
+      "publishedAt": "2026-11-26T02:13:00Z",
       "image": null
     },
     {
-      "title": "US court convicts China’s Huawei for fraud, conspiring to steal trade secrets, in sprawling trial over Iran business",
-      "url": "https://www.cnn.com/2026/11/24/china/china-huawei-iran-conviction-intl-hnk",
+      "title": "Joan Smalls Confirms Fall Out with Candice Swanepoel Over Tom Brady Romance",
+      "url": "https://www.tmz.com/2026/11/25/tom-brady-caused-candice-swanepoel-joan-smalls-feud/",
+      "source": "TMZ",
+      "publishedAt": "2026-11-26T01:51:59Z",
+      "image": "https://imagez.tmz.com/image/29/16by9/2026/11/26/29e899ca0d804ea9b7da4a119ff7bce2_xl.jpg"
+    },
+    {
+      "title": "US announces new tariffs on host of countries including China",
+      "url": "https://www.bbc.com/news/articles/c893r9ke5p97o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-26T01:00:06Z",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9117/live/98cd84e0-e92a-11f1-9929-f96d7c6cbd39.jpg"
+    },
+    {
+      "title": "Rams vs. Packers: Week 12 NFL game highlights",
+      "url": "https://www.espn.com/nfl/story/_/id/50599365/nfl-week-12-highlights-touchdowns-plays",
+      "source": "ESPN",
+      "publishedAt": "2026-11-26T00:35:00Z",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1126%2Fr1751435_1296x729_16%2D9.jpg"
+    },
+    {
+      "title": "A man in Boston won $1 million in the lottery. Then ICE arrested him",
+      "url": "https://www.cnn.com/2026/11/25/us/boston-lottery-ice-arrest",
       "source": "CNN",
-      "publishedAt": "2026-11-25T01:22:00Z",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1507602854.jpg?c=16x9&q=w_800,c_fill"
+      "publishedAt": "2026-11-26T00:18:00Z",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/20261125-boston.png?c=16x9&q=w_800,c_fill"
     }
   ]
 }
